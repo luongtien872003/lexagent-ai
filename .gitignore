@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Data (large files)
+data/indexes/*.pkl
+data/raw/
+# Keep: data/extracted/ and data/indexes/*.json
+
+# Node
+frontend/node_modules/
+frontend/.next/
+frontend/build/
+
+# Env
+.env
+!.env.example
+
+# Build
+extractor/extractor_v2
+extractor/extractor.exe
+
+# IDE
+.idea/
+.vscode/
+*.swp

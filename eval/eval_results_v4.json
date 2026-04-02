@@ -1,0 +1,517 @@
+{
+  "retriever": {
+    "method": "M11 E5+QE+ChapterBoost",
+    "recall@1": 0.8,
+    "recall@3": 0.9,
+    "recall@5": 1.0
+  },
+  "reranker": {
+    "model": "BAAI/bge-reranker-v2-m3",
+    "alpha": 0.5,
+    "recall@1": 0.7,
+    "recall@3": 0.95
+  },
+  "failures": 0,
+  "per_question": [
+    {
+      "id": "q001",
+      "type": "exact",
+      "question": "Bộ luật lao động điều chỉnh những vấn đề gì?",
+      "gt_dieu": [
+        1
+      ],
+      "retrieval_top5": [
+        1,
+        3,
+        4,
+        7,
+        239
+      ],
+      "rerank_top3": [
+        1,
+        3,
+        4
+      ],
+      "ret@1": true,
+      "ret@3": true,
+      "ret@5": true,
+      "rnk@1": true,
+      "rnk@3": true
+    },
+    {
+      "id": "q002",
+      "type": "exact",
+      "question": "Những đối tượng nào được áp dụng Bộ luật lao động?",
+      "gt_dieu": [
+        2
+      ],
+      "retrieval_top5": [
+        2,
+        1,
+        3,
+        240,
+        241
+      ],
+      "rerank_top3": [
+        2,
+        1,
+        3
+      ],
+      "ret@1": true,
+      "ret@3": true,
+      "ret@5": true,
+      "rnk@1": true,
+      "rnk@3": true
+    },
+    {
+      "id": "q003",
+      "type": "exact",
+      "question": "Độ tuổi tối thiểu để được coi là người lao động theo Bộ",
+      "gt_dieu": [
+        3
+      ],
+      "retrieval_top5": [
+        3,
+        164,
+        163,
+        166,
+        161
+      ],
+      "rerank_top3": [
+        3,
+        164,
+        163
+      ],
+      "ret@1": true,
+      "ret@3": true,
+      "ret@5": true,
+      "rnk@1": true,
+      "rnk@3": true
+    },
+    {
+      "id": "q004",
+      "type": "exact",
+      "question": "Người lao động có quyền đình công không?",
+      "gt_dieu": [
+        5
+      ],
+      "retrieval_top5": [
+        5,
+        6,
+        214,
+        210,
+        218
+      ],
+      "rerank_top3": [
+        5,
+        6,
+        214
+      ],
+      "ret@1": true,
+      "ret@3": true,
+      "ret@5": true,
+      "rnk@1": true,
+      "rnk@3": true
+    },
+    {
+      "id": "q005",
+      "type": "exact",
+      "question": "Người sử dụng lao động có quyền đóng cửa tạm thời nơi l",
+      "gt_dieu": [
+        6
+      ],
+      "retrieval_top5": [
+        6,
+        5,
+        129,
+        216,
+        217
+      ],
+      "rerank_top3": [
+        6,
+        216,
+        129
+      ],
+      "ret@1": true,
+      "ret@3": true,
+      "ret@5": true,
+      "rnk@1": true,
+      "rnk@3": true
+    },
+    {
+      "id": "q006",
+      "type": "exact",
+      "question": "Hành vi quấy rối tình dục tại nơi làm việc có bị nghiêm",
+      "gt_dieu": [
+        8
+      ],
+      "retrieval_top5": [
+        8,
+        183,
+        190,
+        165,
+        146
+      ],
+      "rerank_top3": [
+        8,
+        183,
+        190
+      ],
+      "ret@1": true,
+      "ret@3": true,
+      "ret@5": true,
+      "rnk@1": true,
+      "rnk@3": true
+    },
+    {
+      "id": "q007",
+      "type": "exact",
+      "question": "Việc làm là gì theo định nghĩa của Bộ luật lao động?",
+      "gt_dieu": [
+        9
+      ],
+      "retrieval_top5": [
+        9,
+        10,
+        14,
+        3,
+        15
+      ],
+      "rerank_top3": [
+        9,
+        10,
+        3
+      ],
+      "ret@1": true,
+      "ret@3": true,
+      "ret@5": true,
+      "rnk@1": true,
+      "rnk@3": true
+    },
+    {
+      "id": "q008",
+      "type": "exact",
+      "question": "Người lao động có được làm việc ở bất kỳ nơi nào không?",
+      "gt_dieu": [
+        10
+      ],
+      "retrieval_top5": [
+        10,
+        11,
+        168,
+        171,
+        169
+      ],
+      "rerank_top3": [
+        10,
+        168,
+        169
+      ],
+      "ret@1": true,
+      "ret@3": true,
+      "ret@5": true,
+      "rnk@1": true,
+      "rnk@3": true
+    },
+    {
+      "id": "q009",
+      "type": "paraphrase",
+      "question": "Công đoàn có vai trò gì trong việc xây dựng mối quan hệ",
+      "gt_dieu": [
+        7
+      ],
+      "retrieval_top5": [
+        188,
+        7,
+        189,
+        192,
+        88
+      ],
+      "rerank_top3": [
+        188,
+        7,
+        189
+      ],
+      "ret@1": false,
+      "ret@3": true,
+      "ret@5": true,
+      "rnk@1": false,
+      "rnk@3": true
+    },
+    {
+      "id": "q010",
+      "type": "paraphrase",
+      "question": "Nhà nước có trách nhiệm gì trong việc tạo cơ hội có việ",
+      "gt_dieu": [
+        9
+      ],
+      "retrieval_top5": [
+        9,
+        12,
+        13,
+        236,
+        4
+      ],
+      "rerank_top3": [
+        9,
+        12,
+        13
+      ],
+      "ret@1": true,
+      "ret@3": true,
+      "ret@5": true,
+      "rnk@1": true,
+      "rnk@3": true
+    },
+    {
+      "id": "q011",
+      "type": "paraphrase",
+      "question": "Tôi muốn ký hợp đồng với hai công ty khác nhau cùng lúc",
+      "gt_dieu": [
+        21
+      ],
+      "retrieval_top5": [
+        18,
+        16,
+        20,
+        22,
+        21
+      ],
+      "rerank_top3": [
+        18,
+        16,
+        21
+      ],
+      "ret@1": false,
+      "ret@3": false,
+      "ret@5": true,
+      "rnk@1": false,
+      "rnk@3": true
+    },
+    {
+      "id": "q012",
+      "type": "paraphrase",
+      "question": "Nhà nước có chính sách hỗ trợ gì cho người lao động bị ",
+      "gt_dieu": [
+        176
+      ],
+      "retrieval_top5": [
+        176,
+        12,
+        177,
+        4,
+        178
+      ],
+      "rerank_top3": [
+        176,
+        12,
+        177
+      ],
+      "ret@1": true,
+      "ret@3": true,
+      "ret@5": true,
+      "rnk@1": true,
+      "rnk@3": true
+    },
+    {
+      "id": "q013",
+      "type": "paraphrase",
+      "question": "Khi bị sa thải không có lý do chính đáng, người lao độn",
+      "gt_dieu": [
+        42
+      ],
+      "retrieval_top5": [
+        42,
+        43,
+        126,
+        38,
+        48
+      ],
+      "rerank_top3": [
+        126,
+        42,
+        43
+      ],
+      "ret@1": true,
+      "ret@3": true,
+      "ret@5": true,
+      "rnk@1": false,
+      "rnk@3": true
+    },
+    {
+      "id": "q014",
+      "type": "scenario",
+      "question": "Anh A làm việc 3 năm bị công ty cho thôi việc vì lý do ",
+      "gt_dieu": [
+        49
+      ],
+      "retrieval_top5": [
+        48,
+        44,
+        49,
+        42,
+        43
+      ],
+      "rerank_top3": [
+        48,
+        49,
+        44
+      ],
+      "ret@1": false,
+      "ret@3": true,
+      "ret@5": true,
+      "rnk@1": false,
+      "rnk@3": true
+    },
+    {
+      "id": "q015",
+      "type": "scenario",
+      "question": "Công ty tôi đang muốn sa thải nhân viên đang mang thai.",
+      "gt_dieu": [
+        39
+      ],
+      "retrieval_top5": [
+        155,
+        156,
+        37,
+        126,
+        39
+      ],
+      "rerank_top3": [
+        155,
+        156,
+        37
+      ],
+      "ret@1": false,
+      "ret@3": false,
+      "ret@5": true,
+      "rnk@1": false,
+      "rnk@3": false
+    },
+    {
+      "id": "q016",
+      "type": "scenario",
+      "question": "Tôi bị sếp ép làm thêm giờ không trả lương, tôi có quyề",
+      "gt_dieu": [
+        37
+      ],
+      "retrieval_top5": [
+        37,
+        38,
+        39,
+        107,
+        43
+      ],
+      "rerank_top3": [
+        37,
+        107,
+        38
+      ],
+      "ret@1": true,
+      "ret@3": true,
+      "ret@5": true,
+      "rnk@1": true,
+      "rnk@3": true
+    },
+    {
+      "id": "q017",
+      "type": "scenario",
+      "question": "Doanh nghiệp muốn tuyển thử việc 2 tháng với lương 70% ",
+      "gt_dieu": [
+        28
+      ],
+      "retrieval_top5": [
+        28,
+        27,
+        26,
+        29,
+        100
+      ],
+      "rerank_top3": [
+        28,
+        27,
+        26
+      ],
+      "ret@1": true,
+      "ret@3": true,
+      "ret@5": true,
+      "rnk@1": true,
+      "rnk@3": true
+    },
+    {
+      "id": "q018",
+      "type": "scenario",
+      "question": "Nhân viên bị ốm nặng điều trị 13 tháng liên tục, công t",
+      "gt_dieu": [
+        38
+      ],
+      "retrieval_top5": [
+        38,
+        39,
+        37,
+        36,
+        126
+      ],
+      "rerank_top3": [
+        38,
+        39,
+        37
+      ],
+      "ret@1": true,
+      "ret@3": true,
+      "ret@5": true,
+      "rnk@1": true,
+      "rnk@3": true
+    },
+    {
+      "id": "q019",
+      "type": "multi_hop",
+      "question": "Người lao động đơn phương chấm dứt hợp đồng trái pháp l",
+      "gt_dieu": [
+        43
+      ],
+      "retrieval_top5": [
+        43,
+        42,
+        41,
+        38,
+        37
+      ],
+      "rerank_top3": [
+        42,
+        41,
+        43
+      ],
+      "ret@1": true,
+      "ret@3": true,
+      "ret@5": true,
+      "rnk@1": false,
+      "rnk@3": true
+    },
+    {
+      "id": "q020",
+      "type": "multi_hop",
+      "question": "Trợ cấp thôi việc được tính như thế nào và những trường",
+      "gt_dieu": [
+        48
+      ],
+      "retrieval_top5": [
+        48,
+        49,
+        114,
+        98,
+        218
+      ],
+      "rerank_top3": [
+        48,
+        49,
+        114
+      ],
+      "ret@1": true,
+      "ret@3": true,
+      "ret@5": true,
+      "rnk@1": true,
+      "rnk@3": true
+    }
+  ]
+}

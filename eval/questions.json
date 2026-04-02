@@ -1,0 +1,222 @@
+[
+    {
+        "id": "q001",
+        "type": "exact",
+        "question": "Bộ luật lao động điều chỉnh những vấn đề gì?",
+        "ground_truth_ids": [
+            "10.2012.QH13_dieu_001"
+        ],
+        "ground_truth_dieu": [
+            1
+        ]
+    },
+    {
+        "id": "q002",
+        "type": "exact",
+        "question": "Những đối tượng nào được áp dụng Bộ luật lao động?",
+        "ground_truth_ids": [
+            "10.2012.QH13_dieu_002"
+        ],
+        "ground_truth_dieu": [
+            2
+        ]
+    },
+    {
+        "id": "q003",
+        "type": "exact",
+        "question": "Độ tuổi tối thiểu để được coi là người lao động theo Bộ luật là bao nhiêu?",
+        "ground_truth_ids": [
+            "10.2012.QH13_dieu_003"
+        ],
+        "ground_truth_dieu": [
+            3
+        ]
+    },
+    {
+        "id": "q004",
+        "type": "exact",
+        "question": "Người lao động có quyền đình công không?",
+        "ground_truth_ids": [
+            "10.2012.QH13_dieu_005"
+        ],
+        "ground_truth_dieu": [
+            5
+        ]
+    },
+    {
+        "id": "q005",
+        "type": "exact",
+        "question": "Người sử dụng lao động có quyền đóng cửa tạm thời nơi làm việc không?",
+        "ground_truth_ids": [
+            "10.2012.QH13_dieu_006"
+        ],
+        "ground_truth_dieu": [
+            6
+        ]
+    },
+    {
+        "id": "q006",
+        "type": "exact",
+        "question": "Hành vi quấy rối tình dục tại nơi làm việc có bị nghiêm cấm không?",
+        "ground_truth_ids": [
+            "10.2012.QH13_dieu_008"
+        ],
+        "ground_truth_dieu": [
+            8
+        ]
+    },
+    {
+        "id": "q007",
+        "type": "exact",
+        "question": "Việc làm là gì theo định nghĩa của Bộ luật lao động?",
+        "ground_truth_ids": [
+            "10.2012.QH13_dieu_009"
+        ],
+        "ground_truth_dieu": [
+            9
+        ]
+    },
+    {
+        "id": "q008",
+        "type": "exact",
+        "question": "Người lao động có được làm việc ở bất kỳ nơi nào không?",
+        "ground_truth_ids": [
+            "10.2012.QH13_dieu_010"
+        ],
+        "ground_truth_dieu": [
+            10
+        ]
+    },
+    {
+        "id": "q009",
+        "type": "paraphrase",
+        "question": "Công đoàn có vai trò gì trong việc xây dựng mối quan hệ giữa người lao động và doanh nghiệp?",
+        "ground_truth_ids": [
+            "10.2012.QH13_dieu_007"
+        ],
+        "ground_truth_dieu": [
+            7
+        ]
+    },
+    {
+        "id": "q010",
+        "type": "paraphrase",
+        "question": "Nhà nước có trách nhiệm gì trong việc tạo cơ hội có việc làm cho người dân?",
+        "ground_truth_ids": [
+            "10.2012.QH13_dieu_009"
+        ],
+        "ground_truth_dieu": [
+            9
+        ]
+    },
+    {
+        "id": "q011",
+        "type": "paraphrase",
+        "question": "Tôi muốn ký hợp đồng với hai công ty khác nhau cùng lúc, điều này có được phép không?",
+        "ground_truth_ids": [
+            "10.2012.QH13_dieu_021"
+        ],
+        "ground_truth_dieu": [
+            21
+        ]
+    },
+    {
+        "id": "q012",
+        "type": "paraphrase",
+        "question": "Nhà nước có chính sách hỗ trợ gì cho người lao động bị khuyết tật?",
+        "ground_truth_ids": [
+            "10.2012.QH13_dieu_176"
+        ],
+        "ground_truth_dieu": [
+            176
+        ]
+    },
+    {
+        "id": "q013",
+        "type": "paraphrase",
+        "question": "Khi bị sa thải không có lý do chính đáng, người lao động được nhận bồi thường gì?",
+        "ground_truth_ids": [
+            "10.2012.QH13_dieu_042"
+        ],
+        "ground_truth_dieu": [
+            42
+        ]
+    },
+    {
+        "id": "q014",
+        "type": "scenario",
+        "question": "Anh A làm việc 3 năm bị công ty cho thôi việc vì lý do kinh tế. Anh A được nhận trợ cấp bao nhiêu?",
+        "ground_truth_ids": [
+            "10.2012.QH13_dieu_049"
+        ],
+        "ground_truth_dieu": [
+            49
+        ]
+    },
+    {
+        "id": "q015",
+        "type": "scenario",
+        "question": "Công ty tôi đang muốn sa thải nhân viên đang mang thai. Điều này có hợp pháp không?",
+        "ground_truth_ids": [
+            "10.2012.QH13_dieu_039"
+        ],
+        "ground_truth_dieu": [
+            39
+        ]
+    },
+    {
+        "id": "q016",
+        "type": "scenario",
+        "question": "Tôi bị sếp ép làm thêm giờ không trả lương, tôi có quyền tự ý nghỉ việc không?",
+        "ground_truth_ids": [
+            "10.2012.QH13_dieu_037"
+        ],
+        "ground_truth_dieu": [
+            37
+        ]
+    },
+    {
+        "id": "q017",
+        "type": "scenario",
+        "question": "Doanh nghiệp muốn tuyển thử việc 2 tháng với lương 70% lương chính thức, có đúng luật không?",
+        "ground_truth_ids": [
+            "10.2012.QH13_dieu_028"
+        ],
+        "ground_truth_dieu": [
+            28
+        ]
+    },
+    {
+        "id": "q018",
+        "type": "scenario",
+        "question": "Nhân viên bị ốm nặng điều trị 13 tháng liên tục, công ty có được sa thải không?",
+        "ground_truth_ids": [
+            "10.2012.QH13_dieu_038"
+        ],
+        "ground_truth_dieu": [
+            38
+        ]
+    },
+    {
+        "id": "q019",
+        "type": "multi_hop",
+        "question": "Người lao động đơn phương chấm dứt hợp đồng trái pháp luật thì phải bồi thường như thế nào?",
+        "ground_truth_ids": [
+            "10.2012.QH13_dieu_043"
+        ],
+        "ground_truth_dieu": [
+            43
+        ]
+    },
+    {
+        "id": "q020",
+        "type": "multi_hop",
+        "question": "Trợ cấp thôi việc được tính như thế nào và những trường hợp nào được nhận?",
+        "ground_truth_ids": [
+            "10.2012.QH13_dieu_048"
+        ],
+        "ground_truth_dieu": [
+            48
+        ]
+    }
+]

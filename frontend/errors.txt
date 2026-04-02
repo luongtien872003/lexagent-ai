@@ -1,0 +1,2 @@
+lib/hooks/useCitationHover.ts(31,22): error TS2554: Expected 1 arguments, but got 0.
+lib/hooks/useCitationHover.ts(32,22): error TS2554: Expected 1 arguments, but got 0.

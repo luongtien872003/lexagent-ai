@@ -1,0 +1,14 @@
+[
+  {
+    "label": "V6-C: M11 + KG (fixed) + Reranker",
+    "rnk@1": 0.35,
+    "rnk@3": 0.7,
+    "failures": 0
+  },
+  {
+    "label": "V6-D: M11 + Citation + KG (fixed) + Reranker",
+    "rnk@1": 0.35,
+    "rnk@3": 0.7,
+    "failures": 1
+  }
+]

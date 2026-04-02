@@ -1,0 +1,67 @@
+# LexAgent — Crawler Registry v2
+# Source: thuvienphapluat.vn
+# bhxh và bhyt dùng URL mới đã verified
+
+laws:
+  - law_id: lao-dong
+    ten: "Bộ luật Lao động 2019"
+    so_hieu: "45/2019/QH14"
+    url: "https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Bo-Luat-lao-dong-2019-333670.aspx"
+    ngay_hieu_luc: "2021-01-01"
+    loai_van_ban: luat
+    thu_tu_uu_tien: 1
+    output_dir: data/raw/lao-dong
+
+  - law_id: lao-dong-2012
+    ten: "Bộ luật Lao động 2012 (hết hiệu lực)"
+    so_hieu: "10/2012/QH13"
+    url: "https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Bo-luat-lao-dong-2012-141055.aspx"
+    ngay_hieu_luc: "2013-05-01"
+    loai_van_ban: luat
+    thu_tu_uu_tien: 1
+    output_dir: data/raw/lao-dong-2012
+
+  - law_id: bhxh
+    ten: "Luật Bảo hiểm xã hội 2014"
+    so_hieu: "58/2014/QH13"
+    url: "https://thuvienphapluat.vn/van-ban/Bao-hiem/Luat-Bao-hiem-xa-hoi-2014-259700.aspx"
+    ngay_hieu_luc: "2016-01-01"
+    loai_van_ban: luat
+    thu_tu_uu_tien: 1
+    output_dir: data/raw/bhxh
+
+  - law_id: bhyt
+    ten: "Luật Bảo hiểm y tế sửa đổi 2014"
+    so_hieu: "46/2014/QH13"
+    url: "https://thuvienphapluat.vn/van-ban/Bao-hiem/Luat-Bao-hiem-y-te-sua-doi-2014-238506.aspx"
+    ngay_hieu_luc: "2015-01-01"
+    loai_van_ban: luat
+    thu_tu_uu_tien: 1
+    output_dir: data/raw/bhyt
+
+  - law_id: viec-lam
+    ten: "Luật Việc làm 2013"
+    so_hieu: "38/2013/QH13"
+    url: "https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Luat-viec-lam-2013-215628.aspx"
+    ngay_hieu_luc: "2015-01-01"
+    loai_van_ban: luat
+    thu_tu_uu_tien: 1
+    output_dir: data/raw/viec-lam
+
+  - law_id: an-toan-lao-dong
+    ten: "Luật An toàn vệ sinh lao động 2015"
+    so_hieu: "84/2015/QH13"
+    url: "https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Luat-an-toan-ve-sinh-lao-dong-2015-286893.aspx"
+    ngay_hieu_luc: "2016-07-01"
+    loai_van_ban: luat
+    thu_tu_uu_tien: 1
+    output_dir: data/raw/an-toan-lao-dong
+
+  - law_id: cong-doan
+    ten: "Luật Công đoàn 2012"
+    so_hieu: "12/2012/QH13"
+    url: "https://thuvienphapluat.vn/van-ban/Lao-dong-Tien-luong/Luat-cong-doan-2012-141075.aspx"
+    ngay_hieu_luc: "2013-01-01"
+    loai_van_ban: luat
+    thu_tu_uu_tien: 1
+    output_dir: data/raw/cong-doan

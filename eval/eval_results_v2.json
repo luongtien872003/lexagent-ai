@@ -1,0 +1,72 @@
+[
+  {
+    "label": "1. BM25 Standard",
+    "recall@1": 0.35,
+    "recall@3": 0.55,
+    "recall@5": 0.7,
+    "failures": 0
+  },
+  {
+    "label": "2. BM25 Title Boosted",
+    "recall@1": 0.35,
+    "recall@3": 0.5,
+    "recall@5": 0.65,
+    "failures": 0
+  },
+  {
+    "label": "3. BM25 Title Only",
+    "recall@1": 0.15,
+    "recall@3": 0.35,
+    "recall@5": 0.35,
+    "failures": 0
+  },
+  {
+    "label": "4. E5 Dense (boosted)",
+    "recall@1": 0.5,
+    "recall@3": 0.75,
+    "recall@5": 0.85,
+    "failures": 0
+  },
+  {
+    "label": "5. BGE-M3 Dense (boosted)",
+    "recall@1": 0.45,
+    "recall@3": 0.8,
+    "recall@5": 0.85,
+    "failures": 0
+  },
+  {
+    "label": "6. BGE-M3 Sparse (boosted)",
+    "recall@1": 0.4,
+    "recall@3": 0.65,
+    "recall@5": 0.7,
+    "failures": 0
+  },
+  {
+    "label": "7. BM25 Boosted + Query Exp",
+    "recall@1": 0.5,
+    "recall@3": 0.55,
+    "recall@5": 0.75,
+    "failures": 0
+  },
+  {
+    "label": "8. E5 + Query Expansion",
+    "recall@1": 0.5,
+    "recall@3": 0.8,
+    "recall@5": 0.9,
+    "failures": 0
+  },
+  {
+    "label": "9. RRF Equal (all 4)",
+    "recall@1": 0.45,
+    "recall@3": 0.75,
+    "recall@5": 0.85,
+    "failures": 0
+  },
+  {
+    "label": "10. Weighted RRF (best mix)",
+    "recall@1": 0.45,
+    "recall@3": 0.85,
+    "recall@5": 0.9,
+    "failures": 0
+  }
+]

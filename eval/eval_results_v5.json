@@ -1,0 +1,38 @@
+[
+  {
+    "label": "V5-A: M11 + Reranker",
+    "ret@1": 0.8,
+    "ret@3": 0.9,
+    "ret@5": 1.0,
+    "rnk@1": 0.7,
+    "rnk@3": 0.95,
+    "failures": 0
+  },
+  {
+    "label": "V5-B: M11 + Citation + Reranker",
+    "ret@1": 0.8,
+    "ret@3": 0.9,
+    "ret@5": 1.0,
+    "rnk@1": 0.6,
+    "rnk@3": 0.9,
+    "failures": 0
+  },
+  {
+    "label": "V5-C: M11 + KG + Reranker",
+    "ret@1": 0.75,
+    "ret@3": 0.85,
+    "ret@5": 0.9,
+    "rnk@1": 0.0,
+    "rnk@3": 0.35,
+    "failures": 2
+  },
+  {
+    "label": "V5-D: M11 + Citation + KG + Reranker (FULL)",
+    "ret@1": 0.7,
+    "ret@3": 0.75,
+    "ret@5": 0.85,
+    "rnk@1": 0.0,
+    "rnk@3": 0.4,
+    "failures": 3
+  }
+]

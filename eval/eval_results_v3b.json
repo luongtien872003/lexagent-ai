@@ -1,0 +1,38 @@
+[
+  {
+    "boost_factor": 1.2,
+    "recall@1": 0.75,
+    "recall@3": 0.9,
+    "recall@5": 1.0
+  },
+  {
+    "boost_factor": 1.5,
+    "recall@1": 0.75,
+    "recall@3": 0.9,
+    "recall@5": 1.0
+  },
+  {
+    "boost_factor": 1.8,
+    "recall@1": 0.75,
+    "recall@3": 0.9,
+    "recall@5": 1.0
+  },
+  {
+    "boost_factor": 2.0,
+    "recall@1": 0.75,
+    "recall@3": 0.9,
+    "recall@5": 1.0
+  },
+  {
+    "boost_factor": 2.3,
+    "recall@1": 0.75,
+    "recall@3": 0.9,
+    "recall@5": 0.95
+  },
+  {
+    "boost_factor": 2.5,
+    "recall@1": 0.75,
+    "recall@3": 0.9,
+    "recall@5": 0.95
+  }
+]

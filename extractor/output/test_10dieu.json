@@ -1,0 +1,824 @@
+{
+  "extracted_at": "2026-03-25T10:08:17-07:00",
+  "document": {
+    "id": "10.2012.QH13",
+    "ten_van_ban": "BỘ LUẬT LAO ĐỘNG",
+    "so_hieu": "10/2012/QH13",
+    "co_quan_ban_hanh": "Quốc hội",
+    "loai_van_ban": "BỘ LUẬT",
+    "ngay_ban_hanh": "2012-06-18",
+    "nguon_url": "../data/html/luat_laodong.html",
+    "tong_so_dieu": 10,
+    "tong_so_chuong": 17
+  },
+  "chunks": [
+    {
+      "id": "10.2012.QH13_chuong_01",
+      "type": "chuong",
+      "chuong_so": 1,
+      "ten_chuong": "NHỮNG QUY ĐỊNH CHUNG",
+      "noi_dung": "NHỮNG QUY ĐỊNH CHUNG",
+      "text_for_bm25": "BỘ LUẬT LAO ĐỘNG 10/2012/QH13 2012-06-18 NHỮNG QUY ĐỊNH CHUNG  ",
+      "text_for_embedding": "passage: BỘ LUẬT LAO ĐỘNG (10/2012/QH13) - Chương 1: NHỮNG QUY ĐỊNH CHUNG",
+      "van_ban_id": "10.2012.QH13",
+      "so_hieu": "10/2012/QH13"
+    },
+    {
+      "id": "10.2012.QH13_chuong_02",
+      "type": "chuong",
+      "chuong_so": 2,
+      "ten_chuong": "VIỆC LÀM",
+      "noi_dung": "VIỆC LÀM",
+      "text_for_bm25": "BỘ LUẬT LAO ĐỘNG 10/2012/QH13 2012-06-18 VIỆC LÀM  ",
+      "text_for_embedding": "passage: BỘ LUẬT LAO ĐỘNG (10/2012/QH13) - Chương 2: VIỆC LÀM",
+      "van_ban_id": "10.2012.QH13",
+      "so_hieu": "10/2012/QH13"
+    },
+    {
+      "id": "10.2012.QH13_chuong_03",
+      "type": "chuong",
+      "chuong_so": 3,
+      "ten_chuong": "HỢP ĐỒNG LAO ĐỘNG",
+      "noi_dung": "HỢP ĐỒNG LAO ĐỘNG",
+      "text_for_bm25": "BỘ LUẬT LAO ĐỘNG 10/2012/QH13 2012-06-18 HỢP ĐỒNG LAO ĐỘNG  ",
+      "text_for_embedding": "passage: BỘ LUẬT LAO ĐỘNG (10/2012/QH13) - Chương 3: HỢP ĐỒNG LAO ĐỘNG",
+      "van_ban_id": "10.2012.QH13",
+      "so_hieu": "10/2012/QH13"
+    },
+    {
+      "id": "10.2012.QH13_chuong_04",
+      "type": "chuong",
+      "chuong_so": 4,
+      "ten_chuong": "HỌC NGHỀ, ĐÀO TẠO, BỒI DƯỠNG NÂNG CAO TRÌNH ĐỘ KỸ NĂNG NGHỀ",
+      "noi_dung": "HỌC NGHỀ, ĐÀO TẠO, BỒI DƯỠNG NÂNG CAO TRÌNH ĐỘ KỸ NĂNG NGHỀ",
+      "text_for_bm25": "BỘ LUẬT LAO ĐỘNG 10/2012/QH13 2012-06-18 HỌC NGHỀ, ĐÀO TẠO, BỒI DƯỠNG NÂNG CAO TRÌNH ĐỘ KỸ NĂNG NGHỀ  ",
+      "text_for_embedding": "passage: BỘ LUẬT LAO ĐỘNG (10/2012/QH13) - Chương 4: HỌC NGHỀ, ĐÀO TẠO, BỒI DƯỠNG NÂNG CAO TRÌNH ĐỘ KỸ NĂNG NGHỀ",
+      "van_ban_id": "10.2012.QH13",
+      "so_hieu": "10/2012/QH13"
+    },
+    {
+      "id": "10.2012.QH13_chuong_05",
+      "type": "chuong",
+      "chuong_so": 5,
+      "ten_chuong": "ĐỐI THOẠI TẠI NƠI LÀM VIỆC, THƯƠNG LƯỢNG TẬP THỂ, THỎA ƯỚC LAO ĐỘNG TẬP THỂ",
+      "noi_dung": "ĐỐI THOẠI TẠI NƠI LÀM VIỆC, THƯƠNG LƯỢNG TẬP THỂ, THỎA ƯỚC LAO ĐỘNG TẬP THỂ",
+      "text_for_bm25": "BỘ LUẬT LAO ĐỘNG 10/2012/QH13 2012-06-18 ĐỐI THOẠI TẠI NƠI LÀM VIỆC, THƯƠNG LƯỢNG TẬP THỂ, THỎA ƯỚC LAO ĐỘNG TẬP THỂ  ",
+      "text_for_embedding": "passage: BỘ LUẬT LAO ĐỘNG (10/2012/QH13) - Chương 5: ĐỐI THOẠI TẠI NƠI LÀM VIỆC, THƯƠNG LƯỢNG TẬP THỂ, THỎA ƯỚC LAO ĐỘNG TẬP THỂ",
+      "van_ban_id": "10.2012.QH13",
+      "so_hieu": "10/2012/QH13"
+    },
+    {
+      "id": "10.2012.QH13_chuong_06",
+      "type": "chuong",
+      "chuong_so": 6,
+      "ten_chuong": "TIỀN LƯƠNG",
+      "noi_dung": "TIỀN LƯƠNG",
+      "text_for_bm25": "BỘ LUẬT LAO ĐỘNG 10/2012/QH13 2012-06-18 TIỀN LƯƠNG  ",
+      "text_for_embedding": "passage: BỘ LUẬT LAO ĐỘNG (10/2012/QH13) - Chương 6: TIỀN LƯƠNG",
+      "van_ban_id": "10.2012.QH13",
+      "so_hieu": "10/2012/QH13"
+    },
+    {
+      "id": "10.2012.QH13_chuong_07",
+      "type": "chuong",
+      "chuong_so": 7,
+      "ten_chuong": "THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI",
+      "noi_dung": "THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI",
+      "text_for_bm25": "BỘ LUẬT LAO ĐỘNG 10/2012/QH13 2012-06-18 THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI  ",
+      "text_for_embedding": "passage: BỘ LUẬT LAO ĐỘNG (10/2012/QH13) - Chương 7: THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI",
+      "van_ban_id": "10.2012.QH13",
+      "so_hieu": "10/2012/QH13"
+    },
+    {
+      "id": "10.2012.QH13_chuong_08",
+      "type": "chuong",
+      "chuong_so": 8,
+      "ten_chuong": "KỶ LUẬT LAO ĐỘNG, TRÁCH NHIỆM VẬT CHẤT",
+      "noi_dung": "KỶ LUẬT LAO ĐỘNG, TRÁCH NHIỆM VẬT CHẤT",
+      "text_for_bm25": "BỘ LUẬT LAO ĐỘNG 10/2012/QH13 2012-06-18 KỶ LUẬT LAO ĐỘNG, TRÁCH NHIỆM VẬT CHẤT  ",
+      "text_for_embedding": "passage: BỘ LUẬT LAO ĐỘNG (10/2012/QH13) - Chương 8: KỶ LUẬT LAO ĐỘNG, TRÁCH NHIỆM VẬT CHẤT",
+      "van_ban_id": "10.2012.QH13",
+      "so_hieu": "10/2012/QH13"
+    },
+    {
+      "id": "10.2012.QH13_chuong_09",
+      "type": "chuong",
+      "chuong_so": 9,
+      "ten_chuong": "AN TOÀN LAO ĐỘNG, VỆ SINH LAO ĐỘNG",
+      "noi_dung": "AN TOÀN LAO ĐỘNG, VỆ SINH LAO ĐỘNG",
+      "text_for_bm25": "BỘ LUẬT LAO ĐỘNG 10/2012/QH13 2012-06-18 AN TOÀN LAO ĐỘNG, VỆ SINH LAO ĐỘNG  ",
+      "text_for_embedding": "passage: BỘ LUẬT LAO ĐỘNG (10/2012/QH13) - Chương 9: AN TOÀN LAO ĐỘNG, VỆ SINH LAO ĐỘNG",
+      "van_ban_id": "10.2012.QH13",
+      "so_hieu": "10/2012/QH13"
+    },
+    {
+      "id": "10.2012.QH13_chuong_10",
+      "type": "chuong",
+      "chuong_so": 10,
+      "ten_chuong": "NHỮNG QUY ĐỊNH RIÊNG ĐỐI VỚI LAO ĐỘNG NỮ",
+      "noi_dung": "NHỮNG QUY ĐỊNH RIÊNG ĐỐI VỚI LAO ĐỘNG NỮ",
+      "text_for_bm25": "BỘ LUẬT LAO ĐỘNG 10/2012/QH13 2012-06-18 NHỮNG QUY ĐỊNH RIÊNG ĐỐI VỚI LAO ĐỘNG NỮ  ",
+      "text_for_embedding": "passage: BỘ LUẬT LAO ĐỘNG (10/2012/QH13) - Chương 10: NHỮNG QUY ĐỊNH RIÊNG ĐỐI VỚI LAO ĐỘNG NỮ",
+      "van_ban_id": "10.2012.QH13",
+      "so_hieu": "10/2012/QH13"
+    },
+    {
+      "id": "10.2012.QH13_chuong_11",
+      "type": "chuong",
+      "chuong_so": 11,
+      "ten_chuong": "NHỮNG QUY ĐỊNH RIÊNG ĐỐI VỚI LAO ĐỘNG CHƯA THÀNH NIÊN VÀ MỘT SỐ LOẠI LAO ĐỘNG KHÁC",
+      "noi_dung": "NHỮNG QUY ĐỊNH RIÊNG ĐỐI VỚI LAO ĐỘNG CHƯA THÀNH NIÊN VÀ MỘT SỐ LOẠI LAO ĐỘNG KHÁC",
+      "text_for_bm25": "BỘ LUẬT LAO ĐỘNG 10/2012/QH13 2012-06-18 NHỮNG QUY ĐỊNH RIÊNG ĐỐI VỚI LAO ĐỘNG CHƯA THÀNH NIÊN VÀ MỘT SỐ LOẠI LAO ĐỘNG KHÁC  ",
+      "text_for_embedding": "passage: BỘ LUẬT LAO ĐỘNG (10/2012/QH13) - Chương 11: NHỮNG QUY ĐỊNH RIÊNG ĐỐI VỚI LAO ĐỘNG CHƯA THÀNH NIÊN VÀ MỘT SỐ LOẠI LAO ĐỘNG KHÁC",
+      "van_ban_id": "10.2012.QH13",
+      "so_hieu": "10/2012/QH13"
+    },
+    {
+      "id": "10.2012.QH13_chuong_12",
+      "type": "chuong",
+      "chuong_so": 12,
+      "ten_chuong": "BẢO HIỂM XÃ HỘI",
+      "noi_dung": "BẢO HIỂM XÃ HỘI",
+      "text_for_bm25": "BỘ LUẬT LAO ĐỘNG 10/2012/QH13 2012-06-18 BẢO HIỂM XÃ HỘI  ",
+      "text_for_embedding": "passage: BỘ LUẬT LAO ĐỘNG (10/2012/QH13) - Chương 12: BẢO HIỂM XÃ HỘI",
+      "van_ban_id": "10.2012.QH13",
+      "so_hieu": "10/2012/QH13"
+    },
+    {
+      "id": "10.2012.QH13_chuong_13",
+      "type": "chuong",
+      "chuong_so": 13,
+      "ten_chuong": "CÔNG ĐOÀN",
+      "noi_dung": "CÔNG ĐOÀN",
+      "text_for_bm25": "BỘ LUẬT LAO ĐỘNG 10/2012/QH13 2012-06-18 CÔNG ĐOÀN  ",
+      "text_for_embedding": "passage: BỘ LUẬT LAO ĐỘNG (10/2012/QH13) - Chương 13: CÔNG ĐOÀN",
+      "van_ban_id": "10.2012.QH13",
+      "so_hieu": "10/2012/QH13"
+    },
+    {
+      "id": "10.2012.QH13_chuong_14",
+      "type": "chuong",
+      "chuong_so": 14,
+      "ten_chuong": "GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG",
+      "noi_dung": "GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG",
+      "text_for_bm25": "BỘ LUẬT LAO ĐỘNG 10/2012/QH13 2012-06-18 GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG  ",
+      "text_for_embedding": "passage: BỘ LUẬT LAO ĐỘNG (10/2012/QH13) - Chương 14: GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG",
+      "van_ban_id": "10.2012.QH13",
+      "so_hieu": "10/2012/QH13"
+    },
+    {
+      "id": "10.2012.QH13_chuong_15",
+      "type": "chuong",
+      "chuong_so": 15,
+      "ten_chuong": "QUẢN LÝ NHÀ NƯỚC VỀ LAO ĐỘNG",
+      "noi_dung": "QUẢN LÝ NHÀ NƯỚC VỀ LAO ĐỘNG",
+      "text_for_bm25": "BỘ LUẬT LAO ĐỘNG 10/2012/QH13 2012-06-18 QUẢN LÝ NHÀ NƯỚC VỀ LAO ĐỘNG  ",
+      "text_for_embedding": "passage: BỘ LUẬT LAO ĐỘNG (10/2012/QH13) - Chương 15: QUẢN LÝ NHÀ NƯỚC VỀ LAO ĐỘNG",
+      "van_ban_id": "10.2012.QH13",
+      "so_hieu": "10/2012/QH13"
+    },
+    {
+      "id": "10.2012.QH13_chuong_16",
+      "type": "chuong",
+      "chuong_so": 16,
+      "ten_chuong": "THANH TRA LAO ĐỘNG, XỬ PHẠT VI PHẠM PHÁP LUẬT VỀ LAO ĐỘNG",
+      "noi_dung": "THANH TRA LAO ĐỘNG, XỬ PHẠT VI PHẠM PHÁP LUẬT VỀ LAO ĐỘNG",
+      "text_for_bm25": "BỘ LUẬT LAO ĐỘNG 10/2012/QH13 2012-06-18 THANH TRA LAO ĐỘNG, XỬ PHẠT VI PHẠM PHÁP LUẬT VỀ LAO ĐỘNG  ",
+      "text_for_embedding": "passage: BỘ LUẬT LAO ĐỘNG (10/2012/QH13) - Chương 16: THANH TRA LAO ĐỘNG, XỬ PHẠT VI PHẠM PHÁP LUẬT VỀ LAO ĐỘNG",
+      "van_ban_id": "10.2012.QH13",
+      "so_hieu": "10/2012/QH13"
+    },
+    {
+      "id": "10.2012.QH13_chuong_17",
+      "type": "chuong",
+      "chuong_so": 17,
+      "ten_chuong": "ĐIỀU KHOẢN THI HÀNH",
+      "noi_dung": "ĐIỀU KHOẢN THI HÀNH",
+      "text_for_bm25": "BỘ LUẬT LAO ĐỘNG 10/2012/QH13 2012-06-18 ĐIỀU KHOẢN THI HÀNH  ",
+      "text_for_embedding": "passage: BỘ LUẬT LAO ĐỘNG (10/2012/QH13) - Chương 17: ĐIỀU KHOẢN THI HÀNH",
+      "van_ban_id": "10.2012.QH13",
+      "so_hieu": "10/2012/QH13"
+    },
+    {
+      "id": "10.2012.QH13_dieu_001",
+      "type": "dieu",
+      "chuong_so": 1,
+      "ten_chuong": "NHỮNG QUY ĐỊNH CHUNG",
+      "so_dieu": 1,
+      "ten_dieu": "Phạm vi điều chỉnh",
+      "noi_dung": "Bộ luật lao động quy định tiêu chuẩn lao động; quyền, nghĩa vụ, trách nhiệm của người lao động, người sử dụng lao động, tổ chức đại diện tập thể lao động, tổ chức đại diện người sử dụng lao động trong quan hệ lao động và các quan hệ khác liên quan trực tiếp đến quan hệ lao động; quản lý nhà nước về lao động.",
+      "text_for_bm25": "BỘ LUẬT LAO ĐỘNG 10/2012/QH13 2012-06-18 NHỮNG QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Bộ luật lao động quy định tiêu chuẩn lao động; quyền, nghĩa vụ, trách nhiệm của người lao động, người sử dụng lao động, tổ chức đại diện tập thể lao động, tổ chức đại diện người sử dụng lao động trong quan hệ lao động và các quan hệ khác liên quan trực tiếp đến quan hệ lao động; quản lý nhà nước về lao động.",
+      "keywords": [
+        "người lao động",
+        "người sử dụng lao động"
+      ],
+      "text_for_embedding": "passage: BỘ LUẬT LAO ĐỘNG (10/2012/QH13) - NHỮNG QUY ĐỊNH CHUNG - Điều 1. Phạm vi điều chỉnh\nBộ luật lao động quy định tiêu chuẩn lao động; quyền, nghĩa vụ, trách nhiệm của người lao động, người sử dụng lao động, tổ chức đại diện tập thể lao động, tổ chức đại diện người sử dụng lao động trong quan hệ lao động và các quan hệ khác liên quan trực tiếp đến quan hệ lao động; quản lý nhà nước về lao động.",
+      "references": [
+        {
+          "target_dieu": 1,
+          "context_snip": "Điều 1. Phạm vi điều chỉnh Bộ luật lao độn",
+          "relation_type": "tham_chieu"
+        }
+      ],
+      "entities": [
+        "người lao động",
+        "người sử dụng lao động"
+      ],
+      "van_ban_id": "10.2012.QH13",
+      "so_hieu": "10/2012/QH13"
+    },
+    {
+      "id": "10.2012.QH13_dieu_002",
+      "type": "dieu",
+      "chuong_so": 1,
+      "ten_chuong": "NHỮNG QUY ĐỊNH CHUNG",
+      "so_dieu": 2,
+      "ten_dieu": "Đối tượng áp dụng",
+      "noi_dung": "1. Người lao động Việt Nam, người học nghề, tập nghề và người lao động khác được quy định tại Bộ luật này.\n2. Người sử dụng lao động.\n3. Người lao động nước ngoài làm việc tại Việt Nam.\n4. Cơ quan, tổ chức, cá nhân khác có liên quan trực tiếp đến quan hệ lao động.",
+      "khoan": [
+        {
+          "so_khoan": 1,
+          "noi_dung": "Người lao động Việt Nam, người học nghề, tập nghề và người lao động khác được quy định tại Bộ luật này."
+        },
+        {
+          "so_khoan": 2,
+          "noi_dung": "Người sử dụng lao động."
+        },
+        {
+          "so_khoan": 3,
+          "noi_dung": "Người lao động nước ngoài làm việc tại Việt Nam."
+        },
+        {
+          "so_khoan": 4,
+          "noi_dung": "Cơ quan, tổ chức, cá nhân khác có liên quan trực tiếp đến quan hệ lao động."
+        }
+      ],
+      "text_for_bm25": "BỘ LUẬT LAO ĐỘNG 10/2012/QH13 2012-06-18 NHỮNG QUY ĐỊNH CHUNG Điều 2. Đối tượng áp dụng 1. Người lao động Việt Nam, người học nghề, tập nghề và người lao động khác được quy định tại Bộ luật này.\n2. Người sử dụng lao động.\n3. Người lao động nước ngoài làm việc tại Việt Nam.\n4. Cơ quan, tổ chức, cá nhân khác có liên quan trực tiếp đến quan hệ lao động.",
+      "keywords": [
+        "người lao động",
+        "người sử dụng lao động"
+      ],
+      "text_for_embedding": "passage: BỘ LUẬT LAO ĐỘNG (10/2012/QH13) - NHỮNG QUY ĐỊNH CHUNG - Điều 2. Đối tượng áp dụng\n1. Người lao động Việt Nam, người học nghề, tập nghề và người lao động khác được quy định tại Bộ luật này.\n2. Người sử dụng lao động.\n3. Người lao động nước ngoài làm việc tại Việt Nam.\n4. Cơ quan, tổ chức, cá nhân khác có liên quan trực tiếp đến quan hệ lao động.",
+      "references": [
+        {
+          "target_dieu": 2,
+          "context_snip": "Điều 2. Đối tượng áp dụng 1. Người lao độ",
+          "relation_type": "tham_chieu"
+        }
+      ],
+      "entities": [
+        "người lao động",
+        "người sử dụng lao động"
+      ],
+      "van_ban_id": "10.2012.QH13",
+      "so_hieu": "10/2012/QH13"
+    },
+    {
+      "id": "10.2012.QH13_dieu_003",
+      "type": "dieu",
+      "chuong_so": 1,
+      "ten_chuong": "NHỮNG QUY ĐỊNH CHUNG",
+      "so_dieu": 3,
+      "ten_dieu": "Giải thích từ ngữ",
+      "noi_dung": "Trong Bộ luật này, các từ ngữ dưới đây được hiểu như sau&#58;\n1. Người lao động là người từ đủ 15 tuổi trở lên, có khả năng lao động, làm việc theo hợp đồng lao động, được trả lương và chịu sự quản lý, điều hành của người sử dụng lao động.\n2. Người sử dụng lao động là doanh nghiệp, cơ quan, tổ chức, hợp tác xã, hộ gia đình, cá nhân có thuê mướn, sử dụng lao động theo hợp đồng lao động; nếu là cá nhân thì phải có năng lực hành vi dân sự đầy đủ.\n3. Tập thể lao động là tập hợp có tổ chức của người lao động cùng làm việc cho một người sử dụng lao động hoặc trong một bộ phận thuộc cơ cấu tổ chức của người sử dụng lao động.\n4. Tổ chức đại diện tập thể lao động tại cơ sở là Ban chấp hành công đoàn cơ sở hoặc Ban chấp hành công đoàn cấp trên trực tiếp cơ sở ở nơi chưa thành lập công đoàn cơ sở.\n5. Tổ chức đại diện người sử dụng lao động là tổ chức được thành lập hợp pháp, đại diện và bảo vệ quyền, lợi ích hợp pháp của người sử dụng lao động trong quan hệ lao động.\n6. Quan hệ lao động là quan hệ xã hội phát sinh trong việc thuê mướn, sử dụng lao động, trả lương giữa người lao động và người sử dụng lao động.\n7. Tranh chấp lao động là tranh chấp về quyền, nghĩa vụ và lợi ích phát sinh giữa các bên trong quan hệ lao động.\nTranh chấp lao động bao gồm tranh chấp lao động cá nhân giữa người lao động với người sử dụng lao động và tranh chấp lao động tập thể giữa tập thể lao động với người sử dụng lao động.\n8. Tranh chấp lao động tập thể về quyền là tranh chấp giữa tập thể lao động với người sử dụng lao động phát sinh từ việc giải thích và thực hiện khác nhau quy định của pháp luật về lao động, thoả ước lao động tập thể, nội quy lao động, quy chế và thoả thuận hợp pháp khác.\n9. Tranh chấp lao động tập thể về lợi ích là tranh chấp lao động phát sinh từ việc tập thể lao động yêu cầu xác lập các điều kiện lao động mới so với quy định của pháp luật về lao động, thoả ước lao động tập thể, nội quy lao động hoặc các quy chế, thoả thuận hợp pháp khác trong quá trình thương lượng giữa tập thể lao động với người sử dụng lao động.\n10. Cưỡng bức lao động là việc dùng vũ lực, đe dọa dùng vũ lực hoặc các thủ đoạn khác nhằm buộc người khác lao động trái ý muốn của họ.",
+      "khoan": [
+        {
+          "so_khoan": 1,
+          "noi_dung": "Người lao động là người từ đủ 15 tuổi trở lên, có khả năng lao động, làm việc theo hợp đồng lao động, được trả lương và chịu sự quản lý, điều hành của người sử dụng lao động."
+        },
+        {
+          "so_khoan": 2,
+          "noi_dung": "Người sử dụng lao động là doanh nghiệp, cơ quan, tổ chức, hợp tác xã, hộ gia đình, cá nhân có thuê mướn, sử dụng lao động theo hợp đồng lao động; nếu là cá nhân thì phải có năng lực hành vi dân sự đầy đủ."
+        },
+        {
+          "so_khoan": 3,
+          "noi_dung": "Tập thể lao động là tập hợp có tổ chức của người lao động cùng làm việc cho một người sử dụng lao động hoặc trong một bộ phận thuộc cơ cấu tổ chức của người sử dụng lao động."
+        },
+        {
+          "so_khoan": 4,
+          "noi_dung": "Tổ chức đại diện tập thể lao động tại cơ sở là Ban chấp hành công đoàn cơ sở hoặc Ban chấp hành công đoàn cấp trên trực tiếp cơ sở ở nơi chưa thành lập công đoàn cơ sở."
+        },
+        {
+          "so_khoan": 5,
+          "noi_dung": "Tổ chức đại diện người sử dụng lao động là tổ chức được thành lập hợp pháp, đại diện và bảo vệ quyền, lợi ích hợp pháp của người sử dụng lao động trong quan hệ lao động."
+        },
+        {
+          "so_khoan": 6,
+          "noi_dung": "Quan hệ lao động là quan hệ xã hội phát sinh trong việc thuê mướn, sử dụng lao động, trả lương giữa người lao động và người sử dụng lao động."
+        },
+        {
+          "so_khoan": 7,
+          "noi_dung": "Tranh chấp lao động là tranh chấp về quyền, nghĩa vụ và lợi ích phát sinh giữa các bên trong quan hệ lao động. Tranh chấp lao động bao gồm tranh chấp lao động cá nhân giữa người lao động với người sử dụng lao động và tranh chấp lao động tập thể giữa tập thể lao động với người sử dụng lao động."
+        },
+        {
+          "so_khoan": 8,
+          "noi_dung": "Tranh chấp lao động tập thể về quyền là tranh chấp giữa tập thể lao động với người sử dụng lao động phát sinh từ việc giải thích và thực hiện khác nhau quy định của pháp luật về lao động, thoả ước lao động tập thể, nội quy lao động, quy chế và thoả thuận hợp pháp khác."
+        },
+        {
+          "so_khoan": 9,
+          "noi_dung": "Tranh chấp lao động tập thể về lợi ích là tranh chấp lao động phát sinh từ việc tập thể lao động yêu cầu xác lập các điều kiện lao động mới so với quy định của pháp luật về lao động, thoả ước lao động tập thể, nội quy lao động hoặc các quy chế, thoả thuận hợp pháp khác trong quá trình thương lượng giữa tập thể lao động với người sử dụng lao động."
+        },
+        {
+          "so_khoan": 10,
+          "noi_dung": "Cưỡng bức lao động là việc dùng vũ lực, đe dọa dùng vũ lực hoặc các thủ đoạn khác nhằm buộc người khác lao động trái ý muốn của họ."
+        }
+      ],
+      "text_for_bm25": "BỘ LUẬT LAO ĐỘNG 10/2012/QH13 2012-06-18 NHỮNG QUY ĐỊNH CHUNG Điều 3. Giải thích từ ngữ Trong Bộ luật này, các từ ngữ dưới đây được hiểu như sau&#58;\n1. Người lao động là người từ đủ 15 tuổi trở lên, có khả năng lao động, làm việc theo hợp đồng lao động, được trả lương và chịu sự quản lý, điều hành của người sử dụng lao động.\n2. Người sử dụng lao động là doanh nghiệp, cơ quan, tổ chức, hợp tác xã, hộ gia đình, cá nhân có thuê mướn, sử dụng lao động theo hợp đồng lao động; nếu là cá nhân thì phải có năng lực hành vi dân sự đầy đủ.\n3. Tập thể lao động là tập hợp có tổ chức của người lao động cùng làm việc cho một người sử dụng lao động hoặc trong một bộ phận thuộc cơ cấu tổ chức của người sử dụng lao động.\n4. Tổ chức đại diện tập thể lao động tại cơ sở là Ban chấp hành công đoàn cơ sở hoặc Ban chấp hành công đoàn cấp trên trực tiếp cơ sở ở nơi chưa thành lập công đoàn cơ sở.\n5. Tổ chức đại diện người sử dụng lao động là tổ chức được thành lập hợp pháp, đại diện và bảo vệ quyền, lợi ích hợp pháp của người sử dụng lao động trong quan hệ lao động.\n6. Quan hệ lao động là quan hệ xã hội phát sinh trong việc thuê mướn, sử dụng lao động, trả lương giữa người lao động và người sử dụng lao động.\n7. Tranh chấp lao động là tranh chấp về quyền, nghĩa vụ và lợi ích phát sinh giữa các bên trong quan hệ lao động.\nTranh chấp lao động bao gồm tranh chấp lao động cá nhân giữa người lao động với người sử dụng lao động và tranh chấp lao động tập thể giữa tập thể lao động với người sử dụng lao động.\n8. Tranh chấp lao động tập thể về quyền là tranh chấp giữa tập thể lao động với người sử dụng lao động phát sinh từ việc giải thích và thực hiện khác nhau quy định của pháp luật về lao động, thoả ước lao động tập thể, nội quy lao động, quy chế và thoả thuận hợp pháp khác.\n9. Tranh chấp lao động tập thể về lợi ích là tranh chấp lao động phát sinh từ việc tập thể lao động yêu cầu xác lập các điều kiện lao động mới so với quy định của pháp luật về lao động, thoả ước lao động tập thể, nội quy lao động hoặc các quy chế, thoả thuận hợp pháp khác trong quá trình thương lượng giữa tập thể lao động với người sử dụng lao động.\n10. Cưỡng bức lao động là việc dùng vũ lực, đe dọa dùng vũ lực hoặc các thủ đoạn khác nhằm buộc người khác lao động trái ý muốn của họ.",
+      "keywords": [
+        "người lao động",
+        "người sử dụng lao động",
+        "hợp đồng lao động",
+        "thoả ước lao động tập thể",
+        "tranh chấp lao động"
+      ],
+      "text_for_embedding": "passage: BỘ LUẬT LAO ĐỘNG (10/2012/QH13) - NHỮNG QUY ĐỊNH CHUNG - Điều 3. Giải thích từ ngữ\nTrong Bộ luật này, các từ ngữ dưới đây được hiểu như sau&#58;\n1. Người lao động là người từ đủ 15 tuổi trở lên, có khả năng lao động, làm việc theo hợp đồng lao động, được trả lương và chịu sự quản lý, điều hành của người sử dụng lao động.\n2. Người sử dụng lao động là doanh nghiệp, cơ quan, tổ chức, hợp tác xã, hộ gia đình, cá nhân có thuê mướn, sử dụng lao động theo hợp đồng lao động; nếu là cá nhân thì phải có năng lực hành vi dân sự đầy đủ.\n3. Tập thể lao động là tập hợp có tổ chức của người lao động cùng làm việc cho một người sử dụng lao động hoặc trong một bộ phận thuộc cơ cấu tổ chức của người sử dụng lao động.\n4. Tổ chức đại diện tập thể lao động tại cơ sở là Ban chấp hành công đoàn cơ sở hoặc Ban chấp hành công đoàn cấp trên trực tiếp cơ sở ở nơi chưa thành lập công đoàn cơ sở.\n5. Tổ chức đại diện người sử dụng lao động là tổ chức được thành lập hợp pháp, đại diện và bảo vệ quyền, lợi ích hợp pháp của người sử dụng lao động trong quan hệ lao động.\n6. Quan hệ lao động là quan hệ xã hội phát sinh trong việc thuê mướn, sử dụng lao động, trả lương giữa người lao động và người sử dụng lao động.\n7. Tranh chấp lao động là tranh chấp về quyền, nghĩa vụ và lợi ích phát sinh giữa các bên trong quan hệ lao động.\nTranh chấp lao động bao gồm tranh chấp lao động cá nhân giữa người lao động với người sử dụng lao động và tranh chấp lao động tập thể giữa tập thể lao động với người sử dụng lao động.\n8. Tranh chấp lao động tập thể về quyền là tranh chấp giữa tập thể lao động với người sử dụng lao động phát sinh từ việc giải thích và thực hiện khác nhau quy định của pháp luật về lao động, thoả ước lao động tập thể, nội quy lao động, quy chế và thoả thuận hợp pháp khác.\n9. Tranh chấp lao động tập thể về lợi ích là tranh chấp lao động phát sinh từ việc tập thể lao động yêu cầu xác lập các điều kiện lao động mới so với quy định của pháp luật về lao động, thoả ước lao động tập thể, nội quy lao động hoặc các quy chế, thoả thuận hợp pháp khác trong quá trình thương lượng giữa tập thể lao động với người sử dụng lao động.\n10. Cưỡng bức lao động là việc dùng vũ lực, đe dọa dùng vũ lực hoặc các thủ đoạn khác nhằm buộc người khác lao động trái ý muốn của họ.",
+      "references": [
+        {
+          "target_dieu": 3,
+          "context_snip": "Điều 3. Giải thích từ ngữ Trong Bộ luật này,",
+          "relation_type": "tham_chieu"
+        }
+      ],
+      "entities": [
+        "người lao động",
+        "người sử dụng lao động",
+        "hợp đồng lao động",
+        "thoả ước lao động tập thể",
+        "tranh chấp lao động"
+      ],
+      "van_ban_id": "10.2012.QH13",
+      "so_hieu": "10/2012/QH13"
+    },
+    {
+      "id": "10.2012.QH13_dieu_004",
+      "type": "dieu",
+      "chuong_so": 1,
+      "ten_chuong": "NHỮNG QUY ĐỊNH CHUNG",
+      "so_dieu": 4,
+      "ten_dieu": "Chính sách của Nhà nước về lao động",
+      "noi_dung": "1. Bảo đảm quyền và lợi ích chính đáng của người lao động; khuyến khích những thoả thuận bảo đảm cho người lao động có những điều kiện thuận lợi hơn so với quy định của pháp luật về lao động; có chính sách để người lao động mua cổ phần, góp vốn phát triển sản xuất, kinh doanh.\n2. Bảo đảm quyền và lợi ích hợp pháp của người sử dụng lao động, quản lý lao động đúng pháp luật, dân chủ, công bằng, văn minh và nâng cao trách nhiệm xã hội.\n3. Tạo điều kiện thuận lợi đối với hoạt động tạo ra việc làm, tự tạo việc làm, dạy nghề và học nghề để có việc làm; hoạt động sản xuất, kinh doanh thu hút nhiều lao động.\n4. Có chính sách phát triển, phân bố nguồn nhân lực; dạy nghề, đào tạo, bồi dưỡng và nâng cao trình độ kỹ năng nghề cho người lao động, ưu đãi đối với người lao động có trình độ chuyên môn, kỹ thuật cao đáp ứng yêu cầu của sự nghiệp công nghiệp hóa, hiện đại hóa đất nước.\n5. Có chính sách phát triển thị trường lao động, đa dạng các hình thức kết nối cung cầu lao động.\n6. Hướng dẫn người lao động và người sử dụng lao động đối thoại, thương lượng tập thể, xây dựng quan hệ lao động hài hoà, ổn định và tiến bộ.\n7. Bảo đảm nguyên tắc bình đẳng giới; quy định chế độ lao động và chính sách xã hội nhằm bảo vệ lao động nữ, lao động là người khuyết tật, người lao động cao tuổi, lao động chưa thành niên.",
+      "khoan": [
+        {
+          "so_khoan": 1,
+          "noi_dung": "Bảo đảm quyền và lợi ích chính đáng của người lao động; khuyến khích những thoả thuận bảo đảm cho người lao động có những điều kiện thuận lợi hơn so với quy định của pháp luật về lao động; có chính sách để người lao động mua cổ phần, góp vốn phát triển sản xuất, kinh doanh."
+        },
+        {
+          "so_khoan": 2,
+          "noi_dung": "Bảo đảm quyền và lợi ích hợp pháp của người sử dụng lao động, quản lý lao động đúng pháp luật, dân chủ, công bằng, văn minh và nâng cao trách nhiệm xã hội."
+        },
+        {
+          "so_khoan": 3,
+          "noi_dung": "Tạo điều kiện thuận lợi đối với hoạt động tạo ra việc làm, tự tạo việc làm, dạy nghề và học nghề để có việc làm; hoạt động sản xuất, kinh doanh thu hút nhiều lao động."
+        },
+        {
+          "so_khoan": 4,
+          "noi_dung": "Có chính sách phát triển, phân bố nguồn nhân lực; dạy nghề, đào tạo, bồi dưỡng và nâng cao trình độ kỹ năng nghề cho người lao động, ưu đãi đối với người lao động có trình độ chuyên môn, kỹ thuật cao đáp ứng yêu cầu của sự nghiệp công nghiệp hóa, hiện đại hóa đất nước."
+        },
+        {
+          "so_khoan": 5,
+          "noi_dung": "Có chính sách phát triển thị trường lao động, đa dạng các hình thức kết nối cung cầu lao động."
+        },
+        {
+          "so_khoan": 6,
+          "noi_dung": "Hướng dẫn người lao động và người sử dụng lao động đối thoại, thương lượng tập thể, xây dựng quan hệ lao động hài hoà, ổn định và tiến bộ."
+        },
+        {
+          "so_khoan": 7,
+          "noi_dung": "Bảo đảm nguyên tắc bình đẳng giới; quy định chế độ lao động và chính sách xã hội nhằm bảo vệ lao động nữ, lao động là người khuyết tật, người lao động cao tuổi, lao động chưa thành niên."
+        }
+      ],
+      "text_for_bm25": "BỘ LUẬT LAO ĐỘNG 10/2012/QH13 2012-06-18 NHỮNG QUY ĐỊNH CHUNG Điều 4. Chính sách của Nhà nước về lao động 1. Bảo đảm quyền và lợi ích chính đáng của người lao động; khuyến khích những thoả thuận bảo đảm cho người lao động có những điều kiện thuận lợi hơn so với quy định của pháp luật về lao động; có chính sách để người lao động mua cổ phần, góp vốn phát triển sản xuất, kinh doanh.\n2. Bảo đảm quyền và lợi ích hợp pháp của người sử dụng lao động, quản lý lao động đúng pháp luật, dân chủ, công bằng, văn minh và nâng cao trách nhiệm xã hội.\n3. Tạo điều kiện thuận lợi đối với hoạt động tạo ra việc làm, tự tạo việc làm, dạy nghề và học nghề để có việc làm; hoạt động sản xuất, kinh doanh thu hút nhiều lao động.\n4. Có chính sách phát triển, phân bố nguồn nhân lực; dạy nghề, đào tạo, bồi dưỡng và nâng cao trình độ kỹ năng nghề cho người lao động, ưu đãi đối với người lao động có trình độ chuyên môn, kỹ thuật cao đáp ứng yêu cầu của sự nghiệp công nghiệp hóa, hiện đại hóa đất nước.\n5. Có chính sách phát triển thị trường lao động, đa dạng các hình thức kết nối cung cầu lao động.\n6. Hướng dẫn người lao động và người sử dụng lao động đối thoại, thương lượng tập thể, xây dựng quan hệ lao động hài hoà, ổn định và tiến bộ.\n7. Bảo đảm nguyên tắc bình đẳng giới; quy định chế độ lao động và chính sách xã hội nhằm bảo vệ lao động nữ, lao động là người khuyết tật, người lao động cao tuổi, lao động chưa thành niên.",
+      "keywords": [
+        "người lao động",
+        "người sử dụng lao động",
+        "lao động nữ",
+        "lao động chưa thành niên",
+        "người khuyết tật"
+      ],
+      "text_for_embedding": "passage: BỘ LUẬT LAO ĐỘNG (10/2012/QH13) - NHỮNG QUY ĐỊNH CHUNG - Điều 4. Chính sách của Nhà nước về lao động\n1. Bảo đảm quyền và lợi ích chính đáng của người lao động; khuyến khích những thoả thuận bảo đảm cho người lao động có những điều kiện thuận lợi hơn so với quy định của pháp luật về lao động; có chính sách để người lao động mua cổ phần, góp vốn phát triển sản xuất, kinh doanh.\n2. Bảo đảm quyền và lợi ích hợp pháp của người sử dụng lao động, quản lý lao động đúng pháp luật, dân chủ, công bằng, văn minh và nâng cao trách nhiệm xã hội.\n3. Tạo điều kiện thuận lợi đối với hoạt động tạo ra việc làm, tự tạo việc làm, dạy nghề và học nghề để có việc làm; hoạt động sản xuất, kinh doanh thu hút nhiều lao động.\n4. Có chính sách phát triển, phân bố nguồn nhân lực; dạy nghề, đào tạo, bồi dưỡng và nâng cao trình độ kỹ năng nghề cho người lao động, ưu đãi đối với người lao động có trình độ chuyên môn, kỹ thuật cao đáp ứng yêu cầu của sự nghiệp công nghiệp hóa, hiện đại hóa đất nước.\n5. Có chính sách phát triển thị trường lao động, đa dạng các hình thức kết nối cung cầu lao động.\n6. Hướng dẫn người lao động và người sử dụng lao động đối thoại, thương lượng tập thể, xây dựng quan hệ lao động hài hoà, ổn định và tiến bộ.\n7. Bảo đảm nguyên tắc bình đẳng giới; quy định chế độ lao động và chính sách xã hội nhằm bảo vệ lao động nữ, lao động là người khuyết tật, người lao động cao tuổi, lao động chưa thành niên.",
+      "references": [
+        {
+          "target_dieu": 4,
+          "context_snip": "Điều 4. Chính sách của Nhà nước về lao động",
+          "relation_type": "tham_chieu"
+        }
+      ],
+      "entities": [
+        "người lao động",
+        "người sử dụng lao động",
+        "lao động nữ",
+        "lao động chưa thành niên",
+        "người khuyết tật"
+      ],
+      "van_ban_id": "10.2012.QH13",
+      "so_hieu": "10/2012/QH13"
+    },
+    {
+      "id": "10.2012.QH13_dieu_005",
+      "type": "dieu",
+      "chuong_so": 1,
+      "ten_chuong": "NHỮNG QUY ĐỊNH CHUNG",
+      "so_dieu": 5,
+      "ten_dieu": "Quyền và nghĩa vụ của người lao động",
+      "noi_dung": "1. Người lao động có các quyền sau đây&#58;\na) Làm việc, tự do lựa chọn việc làm, nghề nghiệp, học nghề, nâng cao trình độ nghề nghiệp và không bị phân biệt đối xử;\nb) Hưởng lương phù hợp với trình độ kỹ năng nghề trên cơ sở thoả thuận với người sử dụng lao động; được bảo hộ lao động, làm việc trong điều kiện bảo đảm về an toàn lao động, vệ sinh lao động; nghỉ theo chế độ, nghỉ hằng năm có lương và được hưởng phúc lợi tập thể;\nc) Thành lập, gia nhập, hoạt động công đoàn, tổ chức nghề nghiệp và tổ chức khác theo quy định của pháp luật; yêu cầu và tham gia đối thoại với người sử dụng lao động, thực hiện quy chế dân chủ và được tham vấn tại nơi làm việc để bảo vệ quyền và lợi ích hợp pháp của mình; tham gia quản lý theo nội quy của người sử dụng lao động;\nd) Đơn phương chấm dứt hợp đồng lao động theo quy định của pháp luật;\nđ) Đình công.\n2. Người lao động có các nghĩa vụ sau đây&#58;\na) Thực hiện hợp đồng lao động, thoả ước lao động tập thể;\nb) Chấp hành kỷ luật lao động, nội quy lao động, tuân theo sự điều hành hợp pháp của người sử dụng lao động;\nc) Thực hiện các quy định của pháp luật về bảo hiểm xã hội và pháp luật về bảo hiểm y tế.",
+      "khoan": [
+        {
+          "so_khoan": 1,
+          "noi_dung": "Người lao động có các quyền sau đây&#58;",
+          "diem": [
+            {
+              "ky_hieu": "a",
+              "noi_dung": "Làm việc, tự do lựa chọn việc làm, nghề nghiệp, học nghề, nâng cao trình độ nghề nghiệp và không bị phân biệt đối xử;"
+            },
+            {
+              "ky_hieu": "b",
+              "noi_dung": "Hưởng lương phù hợp với trình độ kỹ năng nghề trên cơ sở thoả thuận với người sử dụng lao động; được bảo hộ lao động, làm việc trong điều kiện bảo đảm về an toàn lao động, vệ sinh lao động; nghỉ theo chế độ, nghỉ hằng năm có lương và được hưởng phúc lợi tập thể;"
+            },
+            {
+              "ky_hieu": "c",
+              "noi_dung": "Thành lập, gia nhập, hoạt động công đoàn, tổ chức nghề nghiệp và tổ chức khác theo quy định của pháp luật; yêu cầu và tham gia đối thoại với người sử dụng lao động, thực hiện quy chế dân chủ và được tham vấn tại nơi làm việc để bảo vệ quyền và lợi ích hợp pháp của mình; tham gia quản lý theo nội quy của người sử dụng lao động;"
+            },
+            {
+              "ky_hieu": "d",
+              "noi_dung": "Đơn phương chấm dứt hợp đồng lao động theo quy định của pháp luật;"
+            },
+            {
+              "ky_hieu": "đ",
+              "noi_dung": "Đình công."
+            }
+          ]
+        },
+        {
+          "so_khoan": 2,
+          "noi_dung": "Người lao động có các nghĩa vụ sau đây&#58;",
+          "diem": [
+            {
+              "ky_hieu": "a",
+              "noi_dung": "Thực hiện hợp đồng lao động, thoả ước lao động tập thể;"
+            },
+            {
+              "ky_hieu": "b",
+              "noi_dung": "Chấp hành kỷ luật lao động, nội quy lao động, tuân theo sự điều hành hợp pháp của người sử dụng lao động;"
+            },
+            {
+              "ky_hieu": "c",
+              "noi_dung": "Thực hiện các quy định của pháp luật về bảo hiểm xã hội và pháp luật về bảo hiểm y tế."
+            }
+          ]
+        }
+      ],
+      "text_for_bm25": "BỘ LUẬT LAO ĐỘNG 10/2012/QH13 2012-06-18 NHỮNG QUY ĐỊNH CHUNG Điều 5. Quyền và nghĩa vụ của người lao động 1. Người lao động có các quyền sau đây&#58;\na) Làm việc, tự do lựa chọn việc làm, nghề nghiệp, học nghề, nâng cao trình độ nghề nghiệp và không bị phân biệt đối xử;\nb) Hưởng lương phù hợp với trình độ kỹ năng nghề trên cơ sở thoả thuận với người sử dụng lao động; được bảo hộ lao động, làm việc trong điều kiện bảo đảm về an toàn lao động, vệ sinh lao động; nghỉ theo chế độ, nghỉ hằng năm có lương và được hưởng phúc lợi tập thể;\nc) Thành lập, gia nhập, hoạt động công đoàn, tổ chức nghề nghiệp và tổ chức khác theo quy định của pháp luật; yêu cầu và tham gia đối thoại với người sử dụng lao động, thực hiện quy chế dân chủ và được tham vấn tại nơi làm việc để bảo vệ quyền và lợi ích hợp pháp của mình; tham gia quản lý theo nội quy của người sử dụng lao động;\nd) Đơn phương chấm dứt hợp đồng lao động theo quy định của pháp luật;\nđ) Đình công.\n2. Người lao động có các nghĩa vụ sau đây&#58;\na) Thực hiện hợp đồng lao động, thoả ước lao động tập thể;\nb) Chấp hành kỷ luật lao động, nội quy lao động, tuân theo sự điều hành hợp pháp của người sử dụng lao động;\nc) Thực hiện các quy định của pháp luật về bảo hiểm xã hội và pháp luật về bảo hiểm y tế.",
+      "keywords": [
+        "người lao động",
+        "người sử dụng lao động",
+        "hợp đồng lao động",
+        "thoả ước lao động tập thể",
+        "đình công",
+        "kỷ luật lao động",
+        "bảo hiểm xã hội",
+        "bảo hiểm y tế",
+        "an toàn lao động",
+        "vệ sinh lao động"
+      ],
+      "text_for_embedding": "passage: BỘ LUẬT LAO ĐỘNG (10/2012/QH13) - NHỮNG QUY ĐỊNH CHUNG - Điều 5. Quyền và nghĩa vụ của người lao động\n1. Người lao động có các quyền sau đây&#58;\na) Làm việc, tự do lựa chọn việc làm, nghề nghiệp, học nghề, nâng cao trình độ nghề nghiệp và không bị phân biệt đối xử;\nb) Hưởng lương phù hợp với trình độ kỹ năng nghề trên cơ sở thoả thuận với người sử dụng lao động; được bảo hộ lao động, làm việc trong điều kiện bảo đảm về an toàn lao động, vệ sinh lao động; nghỉ theo chế độ, nghỉ hằng năm có lương và được hưởng phúc lợi tập thể;\nc) Thành lập, gia nhập, hoạt động công đoàn, tổ chức nghề nghiệp và tổ chức khác theo quy định của pháp luật; yêu cầu và tham gia đối thoại với người sử dụng lao động, thực hiện quy chế dân chủ và được tham vấn tại nơi làm việc để bảo vệ quyền và lợi ích hợp pháp của mình; tham gia quản lý theo nội quy của người sử dụng lao động;\nd) Đơn phương chấm dứt hợp đồng lao động theo quy định của pháp luật;\nđ) Đình công.\n2. Người lao động có các nghĩa vụ sau đây&#58;\na) Thực hiện hợp đồng lao động, thoả ước lao động tập thể;\nb) Chấp hành kỷ luật lao động, nội quy lao động, tuân theo sự điều hành hợp pháp của người sử dụng lao động;\nc) Thực hiện các quy định của pháp luật về bảo hiểm xã hội và pháp luật về bảo hiểm y tế.",
+      "references": [
+        {
+          "target_dieu": 5,
+          "context_snip": "Điều 5. Quyền và nghĩa vụ của người lao độ",
+          "relation_type": "tham_chieu"
+        }
+      ],
+      "entities": [
+        "người lao động",
+        "người sử dụng lao động",
+        "hợp đồng lao động",
+        "thoả ước lao động tập thể",
+        "đình công",
+        "kỷ luật lao động",
+        "bảo hiểm xã hội",
+        "bảo hiểm y tế",
+        "an toàn lao động",
+        "vệ sinh lao động"
+      ],
+      "van_ban_id": "10.2012.QH13",
+      "so_hieu": "10/2012/QH13"
+    },
+    {
+      "id": "10.2012.QH13_dieu_006",
+      "type": "dieu",
+      "chuong_so": 1,
+      "ten_chuong": "NHỮNG QUY ĐỊNH CHUNG",
+      "so_dieu": 6,
+      "ten_dieu": "Quyền và nghĩa vụ của người sử dụng lao động",
+      "noi_dung": "1. Người sử dụng lao động có các quyền sau đây&#58;\na) Tuyển dụng, bố trí, điều hành lao động theo nhu cầu sản xuất, kinh doanh; khen thưởng và xử lý vi phạm kỷ luật lao động;\nb) Thành lập, gia nhập, hoạt động trong tổ chức nghề nghiệp và tổ chức khác theo quy định của pháp luật;\nc) Yêu cầu tập thể lao động đối thoại, thương lượng, ký kết thoả ước lao động tập thể; tham gia giải quyết tranh chấp lao động, đình công; trao đổi với công đoàn về các vấn đề trong quan hệ lao động, cải thiện đời sống vật chất và tinh thần của người lao động;\nd) Đóng cửa tạm thời nơi làm việc.\n2. Người sử dụng lao động có các nghĩa vụ sau đây&#58;\na) Thực hiện hợp đồng lao động, thoả ước lao động tập thể và thoả thuận khác với người lao động, tôn trọng danh dự, nhân phẩm của người lao động;\nb) Thiết lập cơ chế và thực hiện đối thoại với tập thể lao động tại doanh nghiệp và thực hiện nghiêm chỉnh quy chế dân chủ ở cơ sở;\nc) Lập sổ quản lý lao động, sổ lương và xuất trình khi cơ quan có thẩm quyền yêu cầu;\nd) Khai trình việc sử dụng lao động trong thời hạn 30 ngày, kể từ ngày bắt đầu hoạt động và định kỳ báo cáo tình hình thay đổi về lao động trong quá trình hoạt động với cơ quan quản lý nhà nước về lao động ở địa phương;\nđ) Thực hiện các quy định khác của pháp luật về lao động, pháp luật về bảo hiểm xã hội và pháp luật về bảo hiểm y tế.",
+      "khoan": [
+        {
+          "so_khoan": 1,
+          "noi_dung": "Người sử dụng lao động có các quyền sau đây&#58;",
+          "diem": [
+            {
+              "ky_hieu": "a",
+              "noi_dung": "Tuyển dụng, bố trí, điều hành lao động theo nhu cầu sản xuất, kinh doanh; khen thưởng và xử lý vi phạm kỷ luật lao động;"
+            },
+            {
+              "ky_hieu": "b",
+              "noi_dung": "Thành lập, gia nhập, hoạt động trong tổ chức nghề nghiệp và tổ chức khác theo quy định của pháp luật;"
+            },
+            {
+              "ky_hieu": "c",
+              "noi_dung": "Yêu cầu tập thể lao động đối thoại, thương lượng, ký kết thoả ước lao động tập thể; tham gia giải quyết tranh chấp lao động, đình công; trao đổi với công đoàn về các vấn đề trong quan hệ lao động, cải thiện đời sống vật chất và tinh thần của người lao động;"
+            },
+            {
+              "ky_hieu": "d",
+              "noi_dung": "Đóng cửa tạm thời nơi làm việc."
+            }
+          ]
+        },
+        {
+          "so_khoan": 2,
+          "noi_dung": "Người sử dụng lao động có các nghĩa vụ sau đây&#58;",
+          "diem": [
+            {
+              "ky_hieu": "a",
+              "noi_dung": "Thực hiện hợp đồng lao động, thoả ước lao động tập thể và thoả thuận khác với người lao động, tôn trọng danh dự, nhân phẩm của người lao động;"
+            },
+            {
+              "ky_hieu": "b",
+              "noi_dung": "Thiết lập cơ chế và thực hiện đối thoại với tập thể lao động tại doanh nghiệp và thực hiện nghiêm chỉnh quy chế dân chủ ở cơ sở;"
+            },
+            {
+              "ky_hieu": "c",
+              "noi_dung": "Lập sổ quản lý lao động, sổ lương và xuất trình khi cơ quan có thẩm quyền yêu cầu;"
+            },
+            {
+              "ky_hieu": "d",
+              "noi_dung": "Khai trình việc sử dụng lao động trong thời hạn 30 ngày, kể từ ngày bắt đầu hoạt động và định kỳ báo cáo tình hình thay đổi về lao động trong quá trình hoạt động với cơ quan quản lý nhà nước về lao động ở địa phương;"
+            },
+            {
+              "ky_hieu": "đ",
+              "noi_dung": "Thực hiện các quy định khác của pháp luật về lao động, pháp luật về bảo hiểm xã hội và pháp luật về bảo hiểm y tế."
+            }
+          ]
+        }
+      ],
+      "text_for_bm25": "BỘ LUẬT LAO ĐỘNG 10/2012/QH13 2012-06-18 NHỮNG QUY ĐỊNH CHUNG Điều 6. Quyền và nghĩa vụ của người sử dụng lao động 1. Người sử dụng lao động có các quyền sau đây&#58;\na) Tuyển dụng, bố trí, điều hành lao động theo nhu cầu sản xuất, kinh doanh; khen thưởng và xử lý vi phạm kỷ luật lao động;\nb) Thành lập, gia nhập, hoạt động trong tổ chức nghề nghiệp và tổ chức khác theo quy định của pháp luật;\nc) Yêu cầu tập thể lao động đối thoại, thương lượng, ký kết thoả ước lao động tập thể; tham gia giải quyết tranh chấp lao động, đình công; trao đổi với công đoàn về các vấn đề trong quan hệ lao động, cải thiện đời sống vật chất và tinh thần của người lao động;\nd) Đóng cửa tạm thời nơi làm việc.\n2. Người sử dụng lao động có các nghĩa vụ sau đây&#58;\na) Thực hiện hợp đồng lao động, thoả ước lao động tập thể và thoả thuận khác với người lao động, tôn trọng danh dự, nhân phẩm của người lao động;\nb) Thiết lập cơ chế và thực hiện đối thoại với tập thể lao động tại doanh nghiệp và thực hiện nghiêm chỉnh quy chế dân chủ ở cơ sở;\nc) Lập sổ quản lý lao động, sổ lương và xuất trình khi cơ quan có thẩm quyền yêu cầu;\nd) Khai trình việc sử dụng lao động trong thời hạn 30 ngày, kể từ ngày bắt đầu hoạt động và định kỳ báo cáo tình hình thay đổi về lao động trong quá trình hoạt động với cơ quan quản lý nhà nước về lao động ở địa phương;\nđ) Thực hiện các quy định khác của pháp luật về lao động, pháp luật về bảo hiểm xã hội và pháp luật về bảo hiểm y tế.",
+      "keywords": [
+        "người lao động",
+        "người sử dụng lao động",
+        "hợp đồng lao động",
+        "thoả ước lao động tập thể",
+        "tranh chấp lao động",
+        "đình công",
+        "kỷ luật lao động",
+        "bảo hiểm xã hội",
+        "bảo hiểm y tế"
+      ],
+      "text_for_embedding": "passage: BỘ LUẬT LAO ĐỘNG (10/2012/QH13) - NHỮNG QUY ĐỊNH CHUNG - Điều 6. Quyền và nghĩa vụ của người sử dụng lao động\n1. Người sử dụng lao động có các quyền sau đây&#58;\na) Tuyển dụng, bố trí, điều hành lao động theo nhu cầu sản xuất, kinh doanh; khen thưởng và xử lý vi phạm kỷ luật lao động;\nb) Thành lập, gia nhập, hoạt động trong tổ chức nghề nghiệp và tổ chức khác theo quy định của pháp luật;\nc) Yêu cầu tập thể lao động đối thoại, thương lượng, ký kết thoả ước lao động tập thể; tham gia giải quyết tranh chấp lao động, đình công; trao đổi với công đoàn về các vấn đề trong quan hệ lao động, cải thiện đời sống vật chất và tinh thần của người lao động;\nd) Đóng cửa tạm thời nơi làm việc.\n2. Người sử dụng lao động có các nghĩa vụ sau đây&#58;\na) Thực hiện hợp đồng lao động, thoả ước lao động tập thể và thoả thuận khác với người lao động, tôn trọng danh dự, nhân phẩm của người lao động;\nb) Thiết lập cơ chế và thực hiện đối thoại với tập thể lao động tại doanh nghiệp và thực hiện nghiêm chỉnh quy chế dân chủ ở cơ sở;\nc) Lập sổ quản lý lao động, sổ lương và xuất trình khi cơ quan có thẩm quyền yêu cầu;\nd) Khai trình việc sử dụng lao động trong thời hạn 30 ngày, kể từ ngày bắt đầu hoạt động và định kỳ báo cáo tình hình thay đổi về lao động trong quá trình hoạt động với cơ quan quản lý nhà nước về lao động ở địa phương;\nđ) Thực hiện các quy định khác của pháp luật về lao động, pháp luật về bảo hiểm xã hội và pháp luật về bảo hiểm y tế.",
+      "references": [
+        {
+          "target_dieu": 6,
+          "context_snip": "Điều 6. Quyền và nghĩa vụ của người sử dụ",
+          "relation_type": "tham_chieu"
+        }
+      ],
+      "entities": [
+        "người lao động",
+        "người sử dụng lao động",
+        "hợp đồng lao động",
+        "thoả ước lao động tập thể",
+        "tranh chấp lao động",
+        "đình công",
+        "kỷ luật lao động",
+        "bảo hiểm xã hội",
+        "bảo hiểm y tế"
+      ],
+      "van_ban_id": "10.2012.QH13",
+      "so_hieu": "10/2012/QH13"
+    },
+    {
+      "id": "10.2012.QH13_dieu_007",
+      "type": "dieu",
+      "chuong_so": 1,
+      "ten_chuong": "NHỮNG QUY ĐỊNH CHUNG",
+      "so_dieu": 7,
+      "ten_dieu": "Quan hệ lao động",
+      "noi_dung": "1. Quan hệ lao động giữa người lao động hoặc tập thể lao động với người sử dụng lao động được xác lập qua đối thoại, thương lượng, thoả thuận theo nguyên tắc tự nguyện, thiện chí, bình đẳng, hợp tác, tôn trọng quyền và lợi ích hợp pháp của nhau.\n2. Công đoàn, tổ chức đại diện người sử dụng lao động tham gia cùng với cơ quan nhà nước hỗ trợ xây dựng quan hệ lao động hài hoà, ổn định và tiến bộ; giám sát việc thi hành các quy định của pháp luật về lao động; bảo vệ quyền và lợi ích hợp pháp của người lao động, người sử dụng lao động.",
+      "khoan": [
+        {
+          "so_khoan": 1,
+          "noi_dung": "Quan hệ lao động giữa người lao động hoặc tập thể lao động với người sử dụng lao động được xác lập qua đối thoại, thương lượng, thoả thuận theo nguyên tắc tự nguyện, thiện chí, bình đẳng, hợp tác, tôn trọng quyền và lợi ích hợp pháp của nhau."
+        },
+        {
+          "so_khoan": 2,
+          "noi_dung": "Công đoàn, tổ chức đại diện người sử dụng lao động tham gia cùng với cơ quan nhà nước hỗ trợ xây dựng quan hệ lao động hài hoà, ổn định và tiến bộ; giám sát việc thi hành các quy định của pháp luật về lao động; bảo vệ quyền và lợi ích hợp pháp của người lao động, người sử dụng lao động."
+        }
+      ],
+      "text_for_bm25": "BỘ LUẬT LAO ĐỘNG 10/2012/QH13 2012-06-18 NHỮNG QUY ĐỊNH CHUNG Điều 7. Quan hệ lao động 1. Quan hệ lao động giữa người lao động hoặc tập thể lao động với người sử dụng lao động được xác lập qua đối thoại, thương lượng, thoả thuận theo nguyên tắc tự nguyện, thiện chí, bình đẳng, hợp tác, tôn trọng quyền và lợi ích hợp pháp của nhau.\n2. Công đoàn, tổ chức đại diện người sử dụng lao động tham gia cùng với cơ quan nhà nước hỗ trợ xây dựng quan hệ lao động hài hoà, ổn định và tiến bộ; giám sát việc thi hành các quy định của pháp luật về lao động; bảo vệ quyền và lợi ích hợp pháp của người lao động, người sử dụng lao động.",
+      "keywords": [
+        "người lao động",
+        "người sử dụng lao động"
+      ],
+      "text_for_embedding": "passage: BỘ LUẬT LAO ĐỘNG (10/2012/QH13) - NHỮNG QUY ĐỊNH CHUNG - Điều 7. Quan hệ lao động\n1. Quan hệ lao động giữa người lao động hoặc tập thể lao động với người sử dụng lao động được xác lập qua đối thoại, thương lượng, thoả thuận theo nguyên tắc tự nguyện, thiện chí, bình đẳng, hợp tác, tôn trọng quyền và lợi ích hợp pháp của nhau.\n2. Công đoàn, tổ chức đại diện người sử dụng lao động tham gia cùng với cơ quan nhà nước hỗ trợ xây dựng quan hệ lao động hài hoà, ổn định và tiến bộ; giám sát việc thi hành các quy định của pháp luật về lao động; bảo vệ quyền và lợi ích hợp pháp của người lao động, người sử dụng lao động.",
+      "references": [
+        {
+          "target_dieu": 7,
+          "context_snip": "Điều 7. Quan hệ lao động 1. Quan hệ lao động g",
+          "relation_type": "tham_chieu"
+        }
+      ],
+      "entities": [
+        "người lao động",
+        "người sử dụng lao động"
+      ],
+      "van_ban_id": "10.2012.QH13",
+      "so_hieu": "10/2012/QH13"
+    },
+    {
+      "id": "10.2012.QH13_dieu_008",
+      "type": "dieu",
+      "chuong_so": 1,
+      "ten_chuong": "NHỮNG QUY ĐỊNH CHUNG",
+      "so_dieu": 8,
+      "ten_dieu": "Các hành vi bị nghiêm cấm",
+      "noi_dung": "1. Phân biệt đối xử về giới tính, dân tộc, màu da, thành phần xã hội, tình trạng hôn nhân, tín ngưỡng, tôn giáo, nhiễm HIV, khuyết tật hoặc vì lý do thành lập, gia nhập và hoạt động công đoàn.\n2. Ngược đãi người lao động, quấy rối tình dục tại nơi làm việc.\n3. Cưỡng bức lao động.\n4. Lợi dụng danh nghĩa dạy nghề, tập nghề để trục lợi, bóc lột sức lao động hoặc dụ dỗ, ép buộc người học nghề, người tập nghề vào hoạt động trái pháp luật.\n5. Sử dụng lao động chưa qua đào tạo nghề hoặc chưa có chứng chỉ kỹ năng nghề quốc gia đối với nghề, công việc phải sử dụng lao động đã được đào tạo nghề hoặc phải có chứng chỉ kỹ năng nghề quốc gia.\n6. Dụ dỗ, hứa hẹn và quảng cáo gian dối để lừa gạt người lao động hoặc lợi dụng dịch vụ việc làm, hoạt động đưa người lao động đi làm việc ở nước ngoài theo hợp đồng để thực hiện hành vi trái pháp luật.\n7. Sử dụng lao động chưa thành niên trái pháp luật.",
+      "khoan": [
+        {
+          "so_khoan": 1,
+          "noi_dung": "Phân biệt đối xử về giới tính, dân tộc, màu da, thành phần xã hội, tình trạng hôn nhân, tín ngưỡng, tôn giáo, nhiễm HIV, khuyết tật hoặc vì lý do thành lập, gia nhập và hoạt động công đoàn."
+        },
+        {
+          "so_khoan": 2,
+          "noi_dung": "Ngược đãi người lao động, quấy rối tình dục tại nơi làm việc."
+        },
+        {
+          "so_khoan": 3,
+          "noi_dung": "Cưỡng bức lao động."
+        },
+        {
+          "so_khoan": 4,
+          "noi_dung": "Lợi dụng danh nghĩa dạy nghề, tập nghề để trục lợi, bóc lột sức lao động hoặc dụ dỗ, ép buộc người học nghề, người tập nghề vào hoạt động trái pháp luật."
+        },
+        {
+          "so_khoan": 5,
+          "noi_dung": "Sử dụng lao động chưa qua đào tạo nghề hoặc chưa có chứng chỉ kỹ năng nghề quốc gia đối với nghề, công việc phải sử dụng lao động đã được đào tạo nghề hoặc phải có chứng chỉ kỹ năng nghề quốc gia."
+        },
+        {
+          "so_khoan": 6,
+          "noi_dung": "Dụ dỗ, hứa hẹn và quảng cáo gian dối để lừa gạt người lao động hoặc lợi dụng dịch vụ việc làm, hoạt động đưa người lao động đi làm việc ở nước ngoài theo hợp đồng để thực hiện hành vi trái pháp luật."
+        },
+        {
+          "so_khoan": 7,
+          "noi_dung": "Sử dụng lao động chưa thành niên trái pháp luật."
+        }
+      ],
+      "text_for_bm25": "BỘ LUẬT LAO ĐỘNG 10/2012/QH13 2012-06-18 NHỮNG QUY ĐỊNH CHUNG Điều 8. Các hành vi bị nghiêm cấm 1. Phân biệt đối xử về giới tính, dân tộc, màu da, thành phần xã hội, tình trạng hôn nhân, tín ngưỡng, tôn giáo, nhiễm HIV, khuyết tật hoặc vì lý do thành lập, gia nhập và hoạt động công đoàn.\n2. Ngược đãi người lao động, quấy rối tình dục tại nơi làm việc.\n3. Cưỡng bức lao động.\n4. Lợi dụng danh nghĩa dạy nghề, tập nghề để trục lợi, bóc lột sức lao động hoặc dụ dỗ, ép buộc người học nghề, người tập nghề vào hoạt động trái pháp luật.\n5. Sử dụng lao động chưa qua đào tạo nghề hoặc chưa có chứng chỉ kỹ năng nghề quốc gia đối với nghề, công việc phải sử dụng lao động đã được đào tạo nghề hoặc phải có chứng chỉ kỹ năng nghề quốc gia.\n6. Dụ dỗ, hứa hẹn và quảng cáo gian dối để lừa gạt người lao động hoặc lợi dụng dịch vụ việc làm, hoạt động đưa người lao động đi làm việc ở nước ngoài theo hợp đồng để thực hiện hành vi trái pháp luật.\n7. Sử dụng lao động chưa thành niên trái pháp luật.",
+      "keywords": [
+        "người lao động",
+        "lao động chưa thành niên"
+      ],
+      "text_for_embedding": "passage: BỘ LUẬT LAO ĐỘNG (10/2012/QH13) - NHỮNG QUY ĐỊNH CHUNG - Điều 8. Các hành vi bị nghiêm cấm\n1. Phân biệt đối xử về giới tính, dân tộc, màu da, thành phần xã hội, tình trạng hôn nhân, tín ngưỡng, tôn giáo, nhiễm HIV, khuyết tật hoặc vì lý do thành lập, gia nhập và hoạt động công đoàn.\n2. Ngược đãi người lao động, quấy rối tình dục tại nơi làm việc.\n3. Cưỡng bức lao động.\n4. Lợi dụng danh nghĩa dạy nghề, tập nghề để trục lợi, bóc lột sức lao động hoặc dụ dỗ, ép buộc người học nghề, người tập nghề vào hoạt động trái pháp luật.\n5. Sử dụng lao động chưa qua đào tạo nghề hoặc chưa có chứng chỉ kỹ năng nghề quốc gia đối với nghề, công việc phải sử dụng lao động đã được đào tạo nghề hoặc phải có chứng chỉ kỹ năng nghề quốc gia.\n6. Dụ dỗ, hứa hẹn và quảng cáo gian dối để lừa gạt người lao động hoặc lợi dụng dịch vụ việc làm, hoạt động đưa người lao động đi làm việc ở nước ngoài theo hợp đồng để thực hiện hành vi trái pháp luật.\n7. Sử dụng lao động chưa thành niên trái pháp luật.",
+      "references": [
+        {
+          "target_dieu": 8,
+          "context_snip": "Điều 8. Các hành vi bị nghiêm cấm 1. Phân biệt",
+          "relation_type": "tham_chieu"
+        }
+      ],
+      "entities": [
+        "người lao động",
+        "lao động chưa thành niên"
+      ],
+      "van_ban_id": "10.2012.QH13",
+      "so_hieu": "10/2012/QH13"
+    },
+    {
+      "id": "10.2012.QH13_dieu_009",
+      "type": "dieu",
+      "chuong_so": 2,
+      "ten_chuong": "VIỆC LÀM",
+      "so_dieu": 9,
+      "ten_dieu": "Việc làm, giải quyết việc làm",
+      "noi_dung": "1. Việc làm là hoạt động lao động tạo ra thu nhập mà không bị pháp luật cấm.\n2. Nhà nước, người sử dụng lao động và xã hội có trách nhiệm tham gia giải quyết việc làm, bảo đảm cho mọi người có khả năng lao động đều có cơ hội có việc làm.",
+      "khoan": [
+        {
+          "so_khoan": 1,
+          "noi_dung": "Việc làm là hoạt động lao động tạo ra thu nhập mà không bị pháp luật cấm."
+        },
+        {
+          "so_khoan": 2,
+          "noi_dung": "Nhà nước, người sử dụng lao động và xã hội có trách nhiệm tham gia giải quyết việc làm, bảo đảm cho mọi người có khả năng lao động đều có cơ hội có việc làm."
+        }
+      ],
+      "text_for_bm25": "BỘ LUẬT LAO ĐỘNG 10/2012/QH13 2012-06-18 VIỆC LÀM Điều 9. Việc làm, giải quyết việc làm 1. Việc làm là hoạt động lao động tạo ra thu nhập mà không bị pháp luật cấm.\n2. Nhà nước, người sử dụng lao động và xã hội có trách nhiệm tham gia giải quyết việc làm, bảo đảm cho mọi người có khả năng lao động đều có cơ hội có việc làm.",
+      "keywords": [
+        "người sử dụng lao động"
+      ],
+      "text_for_embedding": "passage: BỘ LUẬT LAO ĐỘNG (10/2012/QH13) - VIỆC LÀM - Điều 9. Việc làm, giải quyết việc làm\n1. Việc làm là hoạt động lao động tạo ra thu nhập mà không bị pháp luật cấm.\n2. Nhà nước, người sử dụng lao động và xã hội có trách nhiệm tham gia giải quyết việc làm, bảo đảm cho mọi người có khả năng lao động đều có cơ hội có việc làm.",
+      "references": [
+        {
+          "target_dieu": 9,
+          "context_snip": "Điều 9. Việc làm, giải quyết việc làm 1. Việ",
+          "relation_type": "tham_chieu"
+        }
+      ],
+      "entities": [
+        "người sử dụng lao động"
+      ],
+      "van_ban_id": "10.2012.QH13",
+      "so_hieu": "10/2012/QH13"
+    },
+    {
+      "id": "10.2012.QH13_dieu_010",
+      "type": "dieu",
+      "chuong_so": 2,
+      "ten_chuong": "VIỆC LÀM",
+      "so_dieu": 10,
+      "ten_dieu": "Quyền làm việc của người lao động",
+      "noi_dung": "1. Được làm việc cho bất kỳ người sử dụng lao động nào và ở bất kỳ nơi nào mà pháp luật không cấm.\n2. Trực tiếp liên hệ với người sử dụng lao động hoặc thông qua tổ chức dịch vụ việc làm để tìm việc làm theo nguyện vọng, khả năng, trình độ nghề nghiệp và sức khoẻ của mình.",
+      "khoan": [
+        {
+          "so_khoan": 1,
+          "noi_dung": "Được làm việc cho bất kỳ người sử dụng lao động nào và ở bất kỳ nơi nào mà pháp luật không cấm."
+        },
+        {
+          "so_khoan": 2,
+          "noi_dung": "Trực tiếp liên hệ với người sử dụng lao động hoặc thông qua tổ chức dịch vụ việc làm để tìm việc làm theo nguyện vọng, khả năng, trình độ nghề nghiệp và sức khoẻ của mình."
+        }
+      ],
+      "text_for_bm25": "BỘ LUẬT LAO ĐỘNG 10/2012/QH13 2012-06-18 VIỆC LÀM Điều 10. Quyền làm việc của người lao động 1. Được làm việc cho bất kỳ người sử dụng lao động nào và ở bất kỳ nơi nào mà pháp luật không cấm.\n2. Trực tiếp liên hệ với người sử dụng lao động hoặc thông qua tổ chức dịch vụ việc làm để tìm việc làm theo nguyện vọng, khả năng, trình độ nghề nghiệp và sức khoẻ của mình.",
+      "keywords": [
+        "người lao động",
+        "người sử dụng lao động"
+      ],
+      "text_for_embedding": "passage: BỘ LUẬT LAO ĐỘNG (10/2012/QH13) - VIỆC LÀM - Điều 10. Quyền làm việc của người lao động\n1. Được làm việc cho bất kỳ người sử dụng lao động nào và ở bất kỳ nơi nào mà pháp luật không cấm.\n2. Trực tiếp liên hệ với người sử dụng lao động hoặc thông qua tổ chức dịch vụ việc làm để tìm việc làm theo nguyện vọng, khả năng, trình độ nghề nghiệp và sức khoẻ của mình.",
+      "references": [
+        {
+          "target_dieu": 10,
+          "context_snip": "Điều 10. Quyền làm việc của người lao động 1",
+          "relation_type": "tham_chieu"
+        }
+      ],
+      "entities": [
+        "người sử dụng lao động"
+      ],
+      "van_ban_id": "10.2012.QH13",
+      "so_hieu": "10/2012/QH13"
+    }
+  ],
+  "graph_edges": [
+    {
+      "from": "10.2012.QH13_dieu_001",
+      "to": "10.2012.QH13_dieu_002",
+      "relation": "cung_chuong",
+      "weight": 0.5
+    },
+    {
+      "from": "10.2012.QH13_dieu_002",
+      "to": "10.2012.QH13_dieu_003",
+      "relation": "cung_chuong",
+      "weight": 0.5
+    },
+    {
+      "from": "10.2012.QH13_dieu_003",
+      "to": "10.2012.QH13_dieu_004",
+      "relation": "cung_chuong",
+      "weight": 0.5
+    },
+    {
+      "from": "10.2012.QH13_dieu_004",
+      "to": "10.2012.QH13_dieu_005",
+      "relation": "cung_chuong",
+      "weight": 0.5
+    },
+    {
+      "from": "10.2012.QH13_dieu_005",
+      "to": "10.2012.QH13_dieu_006",
+      "relation": "cung_chuong",
+      "weight": 0.5
+    },
+    {
+      "from": "10.2012.QH13_dieu_006",
+      "to": "10.2012.QH13_dieu_007",
+      "relation": "cung_chuong",
+      "weight": 0.5
+    },
+    {
+      "from": "10.2012.QH13_dieu_007",
+      "to": "10.2012.QH13_dieu_008",
+      "relation": "cung_chuong",
+      "weight": 0.5
+    },
+    {
+      "from": "10.2012.QH13_dieu_009",
+      "to": "10.2012.QH13_dieu_010",
+      "relation": "cung_chuong",
+      "weight": 0.5
+    },
+    {
+      "from": "10.2012.QH13_dieu_010",
+      "to": "10.2012.QH13_dieu_011",
+      "relation": "cung_chuong",
+      "weight": 0.5
+    }
+  ]
+}

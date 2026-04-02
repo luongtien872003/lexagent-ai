@@ -1,0 +1,823 @@
+{
+  "recall@1": 0.75,
+  "recall@3": 0.9,
+  "multi_hop_recall@1": 0.6667,
+  "multi_hop_n": 3,
+  "per_question": [
+    {
+      "question": "Bộ luật lao động điều chỉnh những vấn đề gì?",
+      "answer": "Bộ luật lao động điều chỉnh tiêu chuẩn lao động; quyền, nghĩa vụ, trách nhiệm của người lao động, người sử dụng lao động, tổ chức đại diện tập thể lao động, tổ chức đại diện người sử dụng lao động trong quan hệ lao động và các quan hệ khác liên quan trực tiếp đến quan hệ lao động; quản lý nhà nước về lao động (Theo Điều 1).",
+      "sources": [
+        "Điều 1 BLLĐ 10/2012/QH13 — Phạm vi điều chỉnh",
+        "Điều 3 BLLĐ 10/2012/QH13 — Giải thích từ ngữ",
+        "Điều 4 BLLĐ 10/2012/QH13 — Chính sách của Nhà nước về lao động"
+      ],
+      "top3_dieu": [
+        1,
+        3,
+        4
+      ],
+      "sub_queries": [
+        "Bộ luật lao động điều chỉnh những vấn đề gì?"
+      ],
+      "rounds": 1,
+      "elapsed_sec": 67.9,
+      "trace": [
+        {
+          "sub_query": "Bộ luật lao động điều chỉnh những vấn đề gì?",
+          "top3": [
+            1,
+            3,
+            4
+          ]
+        }
+      ],
+      "gt": [
+        1
+      ],
+      "hit@1": true,
+      "hit@3": true,
+      "type": "exact"
+    },
+    {
+      "question": "Những đối tượng nào được áp dụng Bộ luật lao động?",
+      "answer": "Theo Điều 2, những đối tượng được áp dụng Bộ luật lao động bao gồm:\n\n1. Người lao động Việt Nam, người học nghề, tập nghề và người lao động khác.\n2. Người sử dụng lao động.\n3. Người lao động nước ngoài làm việc tại Việt Nam.\n4. Cơ quan, tổ chức, cá nhân khác có liên quan trực tiếp đến quan hệ lao động.",
+      "sources": [
+        "Điều 2 BLLĐ 10/2012/QH13 — Đối tượng áp dụng",
+        "Điều 1 BLLĐ 10/2012/QH13 — Phạm vi điều chỉnh",
+        "Điều 3 BLLĐ 10/2012/QH13 — Giải thích từ ngữ"
+      ],
+      "top3_dieu": [
+        2,
+        1,
+        3
+      ],
+      "sub_queries": [
+        "Những đối tượng nào được áp dụng Bộ luật lao động?"
+      ],
+      "rounds": 1,
+      "elapsed_sec": 61.4,
+      "trace": [
+        {
+          "sub_query": "Những đối tượng nào được áp dụng Bộ luật lao động?",
+          "top3": [
+            2,
+            1,
+            3
+          ]
+        }
+      ],
+      "gt": [
+        2
+      ],
+      "hit@1": true,
+      "hit@3": true,
+      "type": "exact"
+    },
+    {
+      "question": "Độ tuổi tối thiểu để được coi là người lao động theo Bộ luật là bao nhiêu?",
+      "answer": "Theo Điều 3, người lao động được định nghĩa là người từ đủ 15 tuổi trở lên. Do đó, độ tuổi tối thiểu để được coi là người lao động theo Bộ luật là 15 tuổi.",
+      "sources": [
+        "Điều 3 BLLĐ 10/2012/QH13 — Giải thích từ ngữ",
+        "Điều 164 BLLĐ 10/2012/QH13 — Sử dụng lao động dưới 15 tuổi",
+        "Điều 163 BLLĐ 10/2012/QH13 — Nguyên tắc sử dụng lao động là người chưa thành niên"
+      ],
+      "top3_dieu": [
+        3,
+        164,
+        163
+      ],
+      "sub_queries": [
+        "Độ tuổi tối thiểu để được coi là người lao động theo Bộ luật Lao động là bao nhiêu?"
+      ],
+      "rounds": 1,
+      "elapsed_sec": 69.1,
+      "trace": [
+        {
+          "sub_query": "Độ tuổi tối thiểu để được coi là người lao động theo Bộ luật Lao động là bao nhiêu?",
+          "top3": [
+            3,
+            164,
+            163
+          ]
+        }
+      ],
+      "gt": [
+        3
+      ],
+      "hit@1": true,
+      "hit@3": true,
+      "type": "exact"
+    },
+    {
+      "question": "Người lao động có quyền đình công không?",
+      "answer": "Có, người lao động có quyền đình công. Theo Điều 5, người lao động có quyền đình công để bảo vệ quyền và lợi ích hợp pháp của mình. Thêm vào đó, Điều 209 xác định đình công là sự ngừng việc tạm thời, tự nguyện và có tổ chức của tập thể lao động nhằm đạt được yêu cầu trong quá trình giải quyết tranh chấp lao động.",
+      "sources": [
+        "Điều 5 BLLĐ 10/2012/QH13 — Quyền và nghĩa vụ của người lao động",
+        "Điều 209 BLLĐ 10/2012/QH13 — Đình công",
+        "Điều 214 BLLĐ 10/2012/QH13 — Quyền của các bên trước và trong quá trình đình công"
+      ],
+      "top3_dieu": [
+        5,
+        209,
+        214
+      ],
+      "sub_queries": [
+        "Người lao động có quyền đình công không?"
+      ],
+      "rounds": 2,
+      "elapsed_sec": 88.9,
+      "trace": [
+        {
+          "sub_query": "Người lao động có quyền đình công không?",
+          "top3": [
+            5,
+            6,
+            214
+          ]
+        },
+        {
+          "follow_up": "Điều luật nào quy định cụ thể về quyền đình công của người lao động và các điều kiện cần thiết để thực hiện quyền này?",
+          "added": [
+            5,
+            209,
+            218
+          ]
+        }
+      ],
+      "gt": [
+        5
+      ],
+      "hit@1": true,
+      "hit@3": true,
+      "type": "exact"
+    },
+    {
+      "question": "Người sử dụng lao động có quyền đóng cửa tạm thời nơi làm việc không?",
+      "answer": "Có, người sử dụng lao động có quyền đóng cửa tạm thời nơi làm việc. Theo Điều 6, người sử dụng lao động có quyền \"đóng cửa tạm thời nơi làm việc\" (khoản 1, điểm d).",
+      "sources": [
+        "Điều 216 BLLĐ 10/2012/QH13 — Thông báo quyết định đóng cửa tạm thời nơi làm việc",
+        "Điều 6 BLLĐ 10/2012/QH13 — Quyền và nghĩa vụ của người sử dụng lao động",
+        "Điều 129 BLLĐ 10/2012/QH13 — Tạm đình chỉ công việc"
+      ],
+      "top3_dieu": [
+        216,
+        6,
+        129
+      ],
+      "sub_queries": [
+        "Người sử dụng lao động có quyền đóng cửa tạm thời nơi làm việc không?"
+      ],
+      "rounds": 1,
+      "elapsed_sec": 59.8,
+      "trace": [
+        {
+          "sub_query": "Người sử dụng lao động có quyền đóng cửa tạm thời nơi làm việc không?",
+          "top3": [
+            6,
+            216,
+            129
+          ]
+        }
+      ],
+      "gt": [
+        6
+      ],
+      "hit@1": false,
+      "hit@3": true,
+      "type": "exact"
+    },
+    {
+      "question": "Hành vi quấy rối tình dục tại nơi làm việc có bị nghiêm cấm không?",
+      "answer": "Có, hành vi quấy rối tình dục tại nơi làm việc bị nghiêm cấm. Theo Điều 8, khoản 2, \"Ngược đãi người lao động, quấy rối tình dục tại nơi làm việc\" là một trong những hành vi bị nghiêm cấm.",
+      "sources": [
+        "Điều 8 BLLĐ 10/2012/QH13 — Các hành vi bị nghiêm cấm",
+        "Điều 183 BLLĐ 10/2012/QH13 — Những hành vi bị nghiêm cấm đối với người sử dụng lao động",
+        "Điều 190 BLLĐ 10/2012/QH13 — Các hành vi bị nghiêm cấm đối với người sử dụng lao động liên quan đến thành lập, gia nhập và hoạt động công đoàn"
+      ],
+      "top3_dieu": [
+        8,
+        183,
+        190
+      ],
+      "sub_queries": [
+        "Hành vi quấy rối tình dục tại nơi làm việc có bị nghiêm cấm không?"
+      ],
+      "rounds": 1,
+      "elapsed_sec": 37.3,
+      "trace": [
+        {
+          "sub_query": "Hành vi quấy rối tình dục tại nơi làm việc có bị nghiêm cấm không?",
+          "top3": [
+            8,
+            183,
+            190
+          ]
+        }
+      ],
+      "gt": [
+        8
+      ],
+      "hit@1": true,
+      "hit@3": true,
+      "type": "exact"
+    },
+    {
+      "question": "Việc làm là gì theo định nghĩa của Bộ luật lao động?",
+      "answer": "Việc làm là hoạt động lao động tạo ra thu nhập mà không bị pháp luật cấm. (Theo Điều 9)",
+      "sources": [
+        "Điều 9 BLLĐ 10/2012/QH13 — Việc làm, giải quyết việc làm",
+        "Điều 10 BLLĐ 10/2012/QH13 — Quyền làm việc của người lao động",
+        "Điều 15 BLLĐ 10/2012/QH13 — Hợp đồng lao động"
+      ],
+      "top3_dieu": [
+        9,
+        10,
+        15
+      ],
+      "sub_queries": [
+        "Định nghĩa việc làm theo Bộ luật lao động"
+      ],
+      "rounds": 1,
+      "elapsed_sec": 66.3,
+      "trace": [
+        {
+          "sub_query": "Định nghĩa việc làm theo Bộ luật lao động",
+          "top3": [
+            9,
+            10,
+            15
+          ]
+        }
+      ],
+      "gt": [
+        9
+      ],
+      "hit@1": true,
+      "hit@3": true,
+      "type": "exact"
+    },
+    {
+      "question": "Người lao động có được làm việc ở bất kỳ nơi nào không?",
+      "answer": "Theo Điều 10, người lao động được làm việc cho bất kỳ người sử dụng lao động nào và ở bất kỳ nơi nào mà pháp luật không cấm.",
+      "sources": [
+        "Điều 10 BLLĐ 10/2012/QH13 — Quyền làm việc của người lao động",
+        "Điều 168 BLLĐ 10/2012/QH13 — Người lao động Việt Nam đi làm việc ở nước ngoài, lao động cho các tổ chức, cá nhân nước ngoài tại Việt Nam",
+        "Điều 169 BLLĐ 10/2012/QH13 — Điều kiện của lao động là công dân nước ngoài vào làm việc tại Việt Nam"
+      ],
+      "top3_dieu": [
+        10,
+        168,
+        169
+      ],
+      "sub_queries": [
+        "Người lao động có được làm việc ở bất kỳ nơi nào không?"
+      ],
+      "rounds": 1,
+      "elapsed_sec": 26.8,
+      "trace": [
+        {
+          "sub_query": "Người lao động có được làm việc ở bất kỳ nơi nào không?",
+          "top3": [
+            10,
+            168,
+            169
+          ]
+        }
+      ],
+      "gt": [
+        10
+      ],
+      "hit@1": true,
+      "hit@3": true,
+      "type": "exact"
+    },
+    {
+      "question": "Công đoàn có vai trò gì trong việc xây dựng mối quan hệ giữa người lao động và doanh nghiệp?",
+      "answer": "Công đoàn có vai trò quan trọng trong việc xây dựng mối quan hệ giữa người lao động và doanh nghiệp như sau:\n\n1. Đại diện và bảo vệ quyền lợi hợp pháp của người lao động: Công đoàn cơ sở thực hiện vai trò này và tham gia thương lượng, ký kết thỏa ước lao động tập thể (Theo Điều 188, khoản 1).\n\n2. Giám sát việc thực hiện các quy định về lao động: Công đoàn tham gia giám sát việc thực hiện thỏa ước lao động tập thể, thang lương, bảng lương, và các quy chế liên quan (Theo Điều 188, khoản 1).\n\n3. Hỗ trợ giải quyết tranh chấp lao động: Công đoàn tham gia, hỗ trợ giải quyết các tranh chấp lao động, từ đó góp phần duy trì quan hệ lao động hài hòa (Theo Điều 188, khoản 1).\n\n4. Tham gia đối thoại và hợp tác với người sử dụng lao động: Công đoàn có trách nhiệm xây dựng quan hệ lao động ổn định và tiến bộ tại doanh nghiệp (Theo Điều 188, khoản 1).\n\n5. Vận động người lao động gia nhập công đoàn: Công đoàn cấp trên cơ sở có trách nhiệm vận động người lao động gia nhập công đoàn và thành lập công đoàn cơ sở (Theo Điều 189, khoản 2).\n\nTóm lại, công đoàn đóng vai trò cầu nối quan trọng giữa người lao động và doanh nghiệp, góp phần xây dựng mối quan hệ lao động hài hòa và ổn định.",
+      "sources": [
+        "Điều 7 BLLĐ 10/2012/QH13 — Quan hệ lao động",
+        "Điều 188 BLLĐ 10/2012/QH13 — Vai trò của tổ chức công đoàn trong quan hệ lao động",
+        "Điều 189 BLLĐ 10/2012/QH13 — Thành lập, gia nhập và hoạt động công đoàn tại doanh nghiệp, cơ quan, tổ chức"
+      ],
+      "top3_dieu": [
+        7,
+        188,
+        189
+      ],
+      "sub_queries": [
+        "Công đoàn có vai trò gì trong việc xây dựng mối quan hệ giữa người lao động và doanh nghiệp?"
+      ],
+      "rounds": 1,
+      "elapsed_sec": 65.1,
+      "trace": [
+        {
+          "sub_query": "Công đoàn có vai trò gì trong việc xây dựng mối quan hệ giữa người lao động và doanh nghiệp?",
+          "top3": [
+            188,
+            7,
+            189
+          ]
+        }
+      ],
+      "gt": [
+        7
+      ],
+      "hit@1": true,
+      "hit@3": true,
+      "type": "paraphrase"
+    },
+    {
+      "question": "Nhà nước có trách nhiệm gì trong việc tạo cơ hội có việc làm cho người dân?",
+      "answer": "Nhà nước có trách nhiệm tham gia giải quyết việc làm, bảo đảm cho mọi người có khả năng lao động đều có cơ hội có việc làm (Theo Điều 9). Ngoài ra, Nhà nước còn xác định chỉ tiêu tạo việc làm tăng thêm trong kế hoạch phát triển kinh tế - xã hội và có các chính sách hỗ trợ phát triển việc làm (Theo Điều 12).",
+      "sources": [
+        "Điều 9 BLLĐ 10/2012/QH13 — Việc làm, giải quyết việc làm",
+        "Điều 13 BLLĐ 10/2012/QH13 — Chương trình việc làm",
+        "Điều 12 BLLĐ 10/2012/QH13 — Chính sách của Nhà nước hỗ trợ phát triển việc làm"
+      ],
+      "top3_dieu": [
+        9,
+        13,
+        12
+      ],
+      "sub_queries": [
+        "Nhà nước có trách nhiệm gì trong việc tạo cơ hội có việc làm cho người dân?"
+      ],
+      "rounds": 1,
+      "elapsed_sec": 53.4,
+      "trace": [
+        {
+          "sub_query": "Nhà nước có trách nhiệm gì trong việc tạo cơ hội có việc làm cho người dân?",
+          "top3": [
+            9,
+            12,
+            13
+          ]
+        }
+      ],
+      "gt": [
+        9
+      ],
+      "hit@1": true,
+      "hit@3": true,
+      "type": "paraphrase"
+    },
+    {
+      "question": "Tôi muốn ký hợp đồng với hai công ty khác nhau cùng lúc, điều này có được phép không?",
+      "answer": "Theo Điều 21, người lao động có thể giao kết hợp đồng lao động với nhiều người sử dụng lao động, nhưng phải bảo đảm thực hiện đầy đủ các nội dung đã giao kết. Do đó, bạn có thể ký hợp đồng với hai công ty khác nhau cùng lúc.",
+      "sources": [
+        "Điều 21 BLLĐ 10/2012/QH13 — Giao kết hợp đồng lao động với nhiều người sử dụng lao động",
+        "Điều 16 BLLĐ 10/2012/QH13 — Hình thức hợp đồng lao động",
+        "Điều 18 BLLĐ 10/2012/QH13 — Nghĩa vụ giao kết hợp đồng lao động"
+      ],
+      "top3_dieu": [
+        21,
+        16,
+        18
+      ],
+      "sub_queries": [
+        "Ký hợp đồng lao động với hai công ty cùng lúc có được phép không?"
+      ],
+      "rounds": 1,
+      "elapsed_sec": 52.3,
+      "trace": [
+        {
+          "sub_query": "Ký hợp đồng lao động với hai công ty cùng lúc có được phép không?",
+          "top3": [
+            18,
+            16,
+            21
+          ]
+        }
+      ],
+      "gt": [
+        21
+      ],
+      "hit@1": true,
+      "hit@3": true,
+      "type": "paraphrase"
+    },
+    {
+      "question": "Nhà nước có chính sách hỗ trợ gì cho người lao động bị khuyết tật?",
+      "answer": "Nhà nước có chính sách bảo trợ quyền lao động, tự tạo việc làm cho lao động là người khuyết tật, đồng thời có chính sách khuyến khích và ưu đãi người sử dụng lao động tạo việc làm cho họ, theo quy định của Luật người khuyết tật (Theo Điều 176). Ngoài ra, Chính phủ quy định chính sách cho vay vốn ưu đãi từ Quỹ quốc gia về việc làm đối với người sử dụng lao động sử dụng lao động là người khuyết tật.",
+      "sources": [
+        "Điều 176 BLLĐ 10/2012/QH13 — Chính sách của Nhà nước đối với lao động là người khuyết tật",
+        "Điều 177 BLLĐ 10/2012/QH13 — Sử dụng lao động là người khuyết tật",
+        "Điều 178 BLLĐ 10/2012/QH13 — Các hành vi bị cấm khi sử dụng lao động là người khuyết tật"
+      ],
+      "top3_dieu": [
+        176,
+        177,
+        178
+      ],
+      "sub_queries": [
+        "Chính sách hỗ trợ cho người lao động bị khuyết tật"
+      ],
+      "rounds": 1,
+      "elapsed_sec": 57.1,
+      "trace": [
+        {
+          "sub_query": "Chính sách hỗ trợ cho người lao động bị khuyết tật",
+          "top3": [
+            176,
+            177,
+            178
+          ]
+        }
+      ],
+      "gt": [
+        176
+      ],
+      "hit@1": true,
+      "hit@3": true,
+      "type": "paraphrase"
+    },
+    {
+      "question": "Khi bị sa thải không có lý do chính đáng, người lao động được nhận bồi thường gì?",
+      "answer": "Khi bị sa thải không có lý do chính đáng, người lao động được nhận bồi thường theo quy định tại Điều 42. Cụ thể, người sử dụng lao động phải:\n\n1. Nhận người lao động trở lại làm việc theo hợp đồng lao động đã giao kết và phải trả tiền lương, bảo hiểm xã hội, bảo hiểm y tế trong những ngày người lao động không được làm việc cộng với ít nhất 02 tháng tiền lương theo hợp đồng lao động (khoản 1).\n2. Nếu người lao động không muốn tiếp tục làm việc, thì ngoài khoản tiền bồi thường quy định tại khoản 1, người sử dụng lao động phải trả trợ cấp thôi việc theo quy định tại Điều 48 (khoản 2).\n3. Nếu người sử dụng lao động không muốn nhận lại người lao động và người lao động đồng ý, thì hai bên có thể thỏa thuận khoản tiền bồi thường thêm nhưng ít nhất phải bằng 02 tháng tiền lương theo hợp đồng lao động (khoản 3).\n\nDo đó, người lao động sẽ nhận được tiền lương cho những ngày không làm việc, ít nhất 02 tháng tiền lương, và có thể nhận thêm trợ cấp thôi việc hoặc khoản bồi thường thêm tùy theo thỏa thuận.",
+      "sources": [
+        "Điều 42 BLLĐ 10/2012/QH13 — Nghĩa vụ của người sử dụng lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật",
+        "Điều 43 BLLĐ 10/2012/QH13 — Nghĩa vụ của người lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật",
+        "Điều 38 BLLĐ 10/2012/QH13 — Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động"
+      ],
+      "top3_dieu": [
+        42,
+        43,
+        38
+      ],
+      "sub_queries": [
+        "Người lao động được nhận bồi thường gì khi bị sa thải không có lý do chính đáng?"
+      ],
+      "rounds": 1,
+      "elapsed_sec": 58.8,
+      "trace": [
+        {
+          "sub_query": "Người lao động được nhận bồi thường gì khi bị sa thải không có lý do chính đáng?",
+          "top3": [
+            42,
+            43,
+            38
+          ]
+        }
+      ],
+      "gt": [
+        42
+      ],
+      "hit@1": true,
+      "hit@3": true,
+      "type": "paraphrase"
+    },
+    {
+      "question": "Anh A làm việc 3 năm bị công ty cho thôi việc vì lý do kinh tế. Anh A được nhận trợ cấp bao nhiêu?",
+      "answer": "Theo Điều 48, anh A đã làm việc 3 năm, do đó anh sẽ được nhận trợ cấp thôi việc là 1,5 tháng tiền lương (mỗi năm làm việc được trợ cấp một nửa tháng tiền lương). \n\nCụ thể, trợ cấp thôi việc = 3 năm x 0,5 tháng tiền lương = 1,5 tháng tiền lương. \n\nTuy nhiên, để tính chính xác số tiền, cần biết tiền lương bình quân theo hợp đồng lao động của 6 tháng liền kề trước khi anh A thôi việc. \n\nDo đó, kết luận là anh A sẽ nhận trợ cấp thôi việc bằng 1,5 tháng tiền lương bình quân theo hợp đồng lao động của 6 tháng trước khi thôi việc.",
+      "sources": [
+        "Điều 48 BLLĐ 10/2012/QH13 — Trợ cấp thôi việc",
+        "Điều 44 BLLĐ 10/2012/QH13 — Nghĩa vụ của người sử dụng lao động trong trường hợp thay đổi cơ cấu, công nghệ hoặc vì lý do kinh tế",
+        "Điều 114 BLLĐ 10/2012/QH13 — Thanh toán tiền lương những ngày chưa nghỉ"
+      ],
+      "top3_dieu": [
+        48,
+        44,
+        114
+      ],
+      "sub_queries": [
+        "Cách tính trợ cấp thôi việc cho Anh A"
+      ],
+      "rounds": 3,
+      "elapsed_sec": 111.6,
+      "trace": [
+        {
+          "sub_query": "Cách tính trợ cấp thôi việc cho Anh A",
+          "top3": [
+            48,
+            49,
+            114
+          ]
+        },
+        {
+          "follow_up": "Lý do thôi việc của Anh A có được coi là mất việc làm theo quy định không? Mức lương của Anh A là bao nhiêu?",
+          "added": [
+            114,
+            49,
+            48
+          ]
+        },
+        {
+          "follow_up": "Lý do cụ thể cho việc thôi việc của Anh A có được coi là mất việc làm theo quy định không?",
+          "added": [
+            44,
+            36,
+            49
+          ]
+        }
+      ],
+      "gt": [
+        49
+      ],
+      "hit@1": false,
+      "hit@3": false,
+      "type": "scenario"
+    },
+    {
+      "question": "Công ty tôi đang muốn sa thải nhân viên đang mang thai. Điều này có hợp pháp không?",
+      "answer": "Theo Điều 155, người sử dụng lao động không được sa thải hoặc đơn phương chấm dứt hợp đồng lao động đối với lao động nữ vì lý do mang thai, trừ một số trường hợp đặc biệt. Do đó, việc công ty bạn muốn sa thải nhân viên đang mang thai là không hợp pháp.",
+      "sources": [
+        "Điều 155 BLLĐ 10/2012/QH13 — Bảo vệ thai sản đối với lao động nữ",
+        "Điều 156 BLLĐ 10/2012/QH13 — Quyền đơn phương chấm dứt, tạm hoãn hợp đồng lao động của lao động nữ mang thai",
+        "Điều 37 BLLĐ 10/2012/QH13 — Quyền đơn phương chấm dứt hợp đồng lao động của người lao động"
+      ],
+      "top3_dieu": [
+        155,
+        156,
+        37
+      ],
+      "sub_queries": [
+        "Công ty có quyền sa thải nhân viên đang mang thai không?"
+      ],
+      "rounds": 3,
+      "elapsed_sec": 204.8,
+      "trace": [
+        {
+          "sub_query": "Công ty có quyền sa thải nhân viên đang mang thai không?",
+          "top3": [
+            156,
+            37,
+            155
+          ]
+        },
+        {
+          "follow_up": "Có những trường hợp nào mà người sử dụng lao động có thể sa thải nhân viên mang thai không?",
+          "added": [
+            156,
+            39,
+            37
+          ]
+        },
+        {
+          "follow_up": "Công ty có thể sa thải nhân viên mang thai trong trường hợp nào? Có cần điều kiện gì không?",
+          "added": [
+            156,
+            155,
+            37
+          ]
+        }
+      ],
+      "gt": [
+        39
+      ],
+      "hit@1": false,
+      "hit@3": false,
+      "type": "scenario"
+    },
+    {
+      "question": "Tôi bị sếp ép làm thêm giờ không trả lương, tôi có quyền tự ý nghỉ việc không?",
+      "answer": "Theo Điều 37, người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn trong trường hợp không được trả lương đầy đủ hoặc trả lương không đúng thời hạn đã thỏa thuận trong hợp đồng lao động. Do đó, bạn có quyền tự ý nghỉ việc nếu sếp ép bạn làm thêm giờ mà không trả lương. Tuy nhiên, bạn cần báo cho người sử dụng lao động biết trước ít nhất 3 ngày làm việc (theo điểm a khoản 2 Điều 37).",
+      "sources": [
+        "Điều 38 BLLĐ 10/2012/QH13 — Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động",
+        "Điều 39 BLLĐ 10/2012/QH13 — Trường hợp người sử dụng lao động không được thực hiện quyền đơn phương chấm dứt hợp đồng lao động",
+        "Điều 37 BLLĐ 10/2012/QH13 — Quyền đơn phương chấm dứt hợp đồng lao động của người lao động"
+      ],
+      "top3_dieu": [
+        38,
+        39,
+        37
+      ],
+      "sub_queries": [
+        "Quy định về làm thêm giờ không trả lương",
+        "Quyền tự ý nghỉ việc của người lao động"
+      ],
+      "rounds": 3,
+      "elapsed_sec": 194.8,
+      "trace": [
+        {
+          "sub_query": "Quy định về làm thêm giờ không trả lương",
+          "top3": [
+            97,
+            106,
+            107
+          ]
+        },
+        {
+          "sub_query": "Quyền tự ý nghỉ việc của người lao động",
+          "top3": [
+            38,
+            37,
+            39
+          ]
+        },
+        {
+          "follow_up": "Tôi có quyền đơn phương chấm dứt hợp đồng lao động khi bị ép làm thêm giờ không trả lương không?",
+          "added": [
+            37,
+            38,
+            42
+          ]
+        },
+        {
+          "follow_up": "Người lao động có quyền tự ý nghỉ việc trong trường hợp nào theo quy định của pháp luật lao động?",
+          "added": [
+            39,
+            37,
+            38
+          ]
+        }
+      ],
+      "gt": [
+        37
+      ],
+      "hit@1": false,
+      "hit@3": true,
+      "type": "scenario"
+    },
+    {
+      "question": "Doanh nghiệp muốn tuyển thử việc 2 tháng với lương 70% lương chính thức, có đúng luật không?",
+      "answer": "Doanh nghiệp không thể tuyển thử việc 2 tháng với lương 70% lương chính thức vì điều này không đúng với quy định. \n\nTheo Điều 27, thời gian thử việc đối với công việc có chức danh nghề cần trình độ chuyên môn, kỹ thuật từ cao đẳng trở lên không được quá 60 ngày. Tuy nhiên, theo Điều 28, tiền lương trong thời gian thử việc phải ít nhất bằng 85% mức lương của công việc đó. \n\nVì vậy, lương 70% là không hợp lệ.",
+      "sources": [
+        "Điều 28 BLLĐ 10/2012/QH13 — Tiền lương trong thời gian thử việc",
+        "Điều 27 BLLĐ 10/2012/QH13 — Thời gian thử việc",
+        "Điều 26 BLLĐ 10/2012/QH13 — Thử việc"
+      ],
+      "top3_dieu": [
+        28,
+        27,
+        26
+      ],
+      "sub_queries": [
+        "Doanh nghiệp có thể tuyển thử việc 2 tháng không?",
+        "Lương thử việc có được quy định là 70% lương chính thức không?"
+      ],
+      "rounds": 3,
+      "elapsed_sec": 86.3,
+      "trace": [
+        {
+          "sub_query": "Doanh nghiệp có thể tuyển thử việc 2 tháng không?",
+          "top3": [
+            27,
+            26,
+            29
+          ]
+        },
+        {
+          "sub_query": "Lương thử việc có được quy định là 70% lương chính thức không?",
+          "top3": [
+            28,
+            27,
+            26
+          ]
+        },
+        {
+          "follow_up": "Doanh nghiệp có thể trả lương thử việc thấp hơn 85% mức lương chính thức không?",
+          "added": [
+            28,
+            27,
+            26
+          ]
+        },
+        {
+          "follow_up": "Doanh nghiệp có thể trả lương thử việc thấp hơn 85% mức lương chính thức không?",
+          "added": [
+            28,
+            27,
+            26
+          ]
+        }
+      ],
+      "gt": [
+        28
+      ],
+      "hit@1": true,
+      "hit@3": true,
+      "type": "scenario"
+    },
+    {
+      "question": "Nhân viên bị ốm nặng điều trị 13 tháng liên tục, công ty có được sa thải không?",
+      "answer": "Công ty không được sa thải nhân viên trong trường hợp này. Theo Điều 39, người lao động ốm đau đang điều trị không được thực hiện quyền đơn phương chấm dứt hợp đồng lao động, trừ trường hợp quy định tại điểm b khoản 1 Điều 38, mà trong trường hợp này, nhân viên đã điều trị 13 tháng liên tục, vượt quá thời gian quy định. Do đó, công ty không có quyền sa thải.",
+      "sources": [
+        "Điều 38 BLLĐ 10/2012/QH13 — Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động",
+        "Điều 39 BLLĐ 10/2012/QH13 — Trường hợp người sử dụng lao động không được thực hiện quyền đơn phương chấm dứt hợp đồng lao động",
+        "Điều 37 BLLĐ 10/2012/QH13 — Quyền đơn phương chấm dứt hợp đồng lao động của người lao động"
+      ],
+      "top3_dieu": [
+        38,
+        39,
+        37
+      ],
+      "sub_queries": [
+        "Công ty có quyền sa thải nhân viên bị ốm nặng không?"
+      ],
+      "rounds": 1,
+      "elapsed_sec": 55.5,
+      "trace": [
+        {
+          "sub_query": "Công ty có quyền sa thải nhân viên bị ốm nặng không?",
+          "top3": [
+            38,
+            39,
+            37
+          ]
+        }
+      ],
+      "gt": [
+        38
+      ],
+      "hit@1": true,
+      "hit@3": true,
+      "type": "scenario"
+    },
+    {
+      "question": "Người lao động đơn phương chấm dứt hợp đồng trái pháp luật thì phải bồi thường như thế nào?",
+      "answer": "Theo Điều 43, khi người lao động đơn phương chấm dứt hợp đồng lao động trái pháp luật, họ phải thực hiện các nghĩa vụ sau:\n\n1. Không được trợ cấp thôi việc và phải bồi thường cho người sử dụng lao động nửa tháng tiền lương theo hợp đồng lao động.\n2. Nếu vi phạm quy định về thời hạn báo trước, người lao động phải bồi thường cho người sử dụng lao động một khoản tiền tương ứng với tiền lương trong những ngày không báo trước.\n3. Phải hoàn trả chi phí đào tạo cho người sử dụng lao động theo quy định tại Điều 62 của Bộ luật này. \n\nTóm lại, người lao động phải bồi thường nửa tháng tiền lương, có thể thêm tiền lương cho những ngày không báo trước và hoàn trả chi phí đào tạo (nếu có).",
+      "sources": [
+        "Điều 41 BLLĐ 10/2012/QH13 — Đơn phương chấm dứt hợp đồng lao động trái pháp luật",
+        "Điều 42 BLLĐ 10/2012/QH13 — Nghĩa vụ của người sử dụng lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật",
+        "Điều 43 BLLĐ 10/2012/QH13 — Nghĩa vụ của người lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật"
+      ],
+      "top3_dieu": [
+        41,
+        42,
+        43
+      ],
+      "sub_queries": [
+        "Người lao động đơn phương chấm dứt hợp đồng trái pháp luật phải bồi thường như thế nào?"
+      ],
+      "rounds": 1,
+      "elapsed_sec": 63.7,
+      "trace": [
+        {
+          "sub_query": "Người lao động đơn phương chấm dứt hợp đồng trái pháp luật phải bồi thường như thế nào?",
+          "top3": [
+            42,
+            41,
+            43
+          ]
+        }
+      ],
+      "gt": [
+        43
+      ],
+      "hit@1": false,
+      "hit@3": true,
+      "type": "multi_hop"
+    },
+    {
+      "question": "Trợ cấp thôi việc được tính như thế nào và những trường hợp nào được nhận?",
+      "answer": "Trợ cấp thôi việc được tính như sau:\n\n1. Người lao động đã làm việc thường xuyên từ đủ 12 tháng trở lên sẽ được nhận trợ cấp thôi việc khi hợp đồng lao động chấm dứt theo các trường hợp quy định tại các khoản 1, 2, 3, 5, 6, 7, 9 và 10 Điều 36 (Điều 48.1).\n2. Mỗi năm làm việc được trợ cấp một nửa tháng tiền lương (Điều 48.1).\n3. Thời gian làm việc để tính trợ cấp thôi việc là tổng thời gian làm việc thực tế trừ đi thời gian đã tham gia bảo hiểm thất nghiệp và thời gian đã được chi trả trợ cấp thôi việc (Điều 48.2).\n4. Tiền lương để tính trợ cấp thôi việc là tiền lương bình quân của 06 tháng liền kề trước khi thôi việc (Điều 48.3).\n\nCác trường hợp được nhận trợ cấp thôi việc bao gồm những trường hợp chấm dứt hợp đồng lao động theo quy định tại các khoản 1, 2, 3, 5, 6, 7, 9 và 10 Điều 36.",
+      "sources": [
+        "Điều 48 BLLĐ 10/2012/QH13 — Trợ cấp thôi việc",
+        "Điều 36 BLLĐ 10/2012/QH13 — Các trường hợp chấm dứt hợp đồng lao động",
+        "Điều 37 BLLĐ 10/2012/QH13 — Quyền đơn phương chấm dứt hợp đồng lao động của người lao động"
+      ],
+      "top3_dieu": [
+        48,
+        36,
+        37
+      ],
+      "sub_queries": [
+        "Cách tính trợ cấp thôi việc",
+        "Điều kiện để được nhận trợ cấp thôi việc"
+      ],
+      "rounds": 3,
+      "elapsed_sec": 168.8,
+      "trace": [
+        {
+          "sub_query": "Cách tính trợ cấp thôi việc",
+          "top3": [
+            48,
+            49,
+            114
+          ]
+        },
+        {
+          "sub_query": "Điều kiện để được nhận trợ cấp thôi việc",
+          "top3": [
+            48,
+            49,
+            44
+          ]
+        },
+        {
+          "follow_up": "Các trường hợp cụ thể nào được nhận trợ cấp thôi việc và cách tính trợ cấp cho từng trường hợp là gì?",
+          "added": [
+            48,
+            49,
+            114
+          ]
+        },
+        {
+          "follow_up": "Các trường hợp cụ thể nào được coi là chấm dứt hợp đồng lao động theo Điều 36 của Bộ luật Lao động?",
+          "added": [
+            36,
+            37,
+            41
+          ]
+        }
+      ],
+      "gt": [
+        48
+      ],
+      "hit@1": true,
+      "hit@3": true,
+      "type": "multi_hop"
+    }
+  ]
+}
